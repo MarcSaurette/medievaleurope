@@ -1,0 +1,78 @@
+# Table of contents
+
+* [Welcome to the Medieval World](README.md)
+* [Syllabus](syllabus/README.md)
+  * [Your Professors](syllabus/your-professor/README.md)
+    * [Dr. Marc Saurette](syllabus/your-professor/dr.-marc-saurette.md)
+    * [Professor Sarah Keeshan](syllabus/your-professor/dr.-instructor-no.-2.md)
+    * [Your Teaching Assistant](syllabus/your-professor/your-teaching-assistant.md)
+  * [Learning Outcomes](syllabus/learning-outcomes.md)
+  * [Communication](syllabus/communication/README.md)
+    * [The Digital Classroom](syllabus/communication/digital-classrooms.md)
+    * [Digital Office Hours](syllabus/communication/digital-office-hours.md)
+  * [Textbooks](syllabus/textbooks.md)
+  * [Coursework](syllabus/assignments/README.md)
+    * [Participation](syllabus/assignments/participation.md)
+    * [Critical Reflections](syllabus/assignments/critical-reflections.md)
+    * [Critical Analyses](syllabus/assignments/critical-analyses.md)
+    * [Peer Feedback](syllabus/assignments/peer-feedback.md)
+    * [Process Letter](syllabus/assignments/process-letter.md)
+  * [Assessment](syllabus/assessment.md)
+  * [Deadlines](syllabus/deadlines.md)
+  * [Teaching in the Time of Coronovirus](syllabus/teaching-in-the-time-of-coronovirus.md)
+  * [Supplemental Material](syllabus/supplemental-material.md)
+  * [Practical Exercises](syllabus/practical-exercises/README.md)
+    * [Week 1 Icebreaker](syllabus/practical-exercises/week-1-icebreaker.md)
+    * [On Apathy and Historical Thinking](syllabus/practical-exercises/on-apathy-and-historical-thinking.md)
+    * [Anatomy of a Primary Source](syllabus/practical-exercises/anatomy-of-a-primary-source/README.md)
+      * [Sources Schematic](syllabus/practical-exercises/anatomy-of-a-primary-source/sources-schematic.md)
+      * [The Problem of Primary Sources](syllabus/practical-exercises/anatomy-of-a-primary-source/the-problem-of-primary-sources.md)
+      * [Reading Cluny's Foundation Charter](syllabus/practical-exercises/anatomy-of-a-primary-source/reading-clunys-foundation-charter.md)
+      * [Charter Translation Exercise](syllabus/practical-exercises/anatomy-of-a-primary-source/charter-translation-exercise.md)
+    * [Anatomy of an Academic Article](syllabus/practical-exercises/anatomy-of-an-academic-article.md)
+* [Digital Tools](digital-tools/README.md)
+  * [MS Office 365](digital-tools/ms-office-365.md)
+  * [MS Teams](digital-tools/teams/README.md)
+    * [\(really\) Short Guide to MS Teams](digital-tools/teams/really-short-guide-to-ms-teams.md)
+  * [Virtual MacOdrum Library](digital-tools/ares.md)
+  * [Poll Everywhere](digital-tools/poll-everywhere.md)
+  * [Zotero](digital-tools/zotero.md)
+  * [Hypothes.is](digital-tools/hypothes.is.md)
+  * [Trello](digital-tools/trello.md)
+  * [cuLearn](digital-tools/culearn.md)
+  * [cuPortfolio](digital-tools/cuportfolio.md)
+  * [BigBlueButton](digital-tools/bigbluebutton.md)
+* [Weekly Schedule](schedule.md)
+* [FAQ](faq.md)
+
+## Prologue to the Middle Ages
+
+* [Prologue](prologue-to-the-middle-ages/the-class-begins....md)
+
+## Module 1. What are the Middle Ages? <a id="module-1.-what-is-the-middle-ages"></a>
+
+* [When are the Middle Ages?](module-1.-what-is-the-middle-ages/when-are-the-middle-ages.md)
+* [Where are the Middle Ages?](module-1.-what-is-the-middle-ages/where-are-the-middle-ages.md)
+
+## Module 2 - The Late Antique World <a id="module-1-the-late-antique-world"></a>
+
+* [The Late Roman Empire](module-1-the-late-antique-world/untitled.md)
+* [The Transformation of Empire](module-1-the-late-antique-world/the-transformation-of-empire.md)
+
+## Module 3 - the Post-Roman Mediterranean <a id="module-2-the-post-roman-mediterranean"></a>
+
+* [Successor Kingdoms](module-2-the-post-roman-mediterranean/untitled.md)
+* [The Eastern Roman Empire](module-2-the-post-roman-mediterranean/the-eastern-roman-empire.md)
+* [The Rise and Spread of Islam](module-2-the-post-roman-mediterranean/the-rise-and-spread-of-islam.md)
+
+## Module 4 - Early Medieval Society and Culture <a id="module-4-society-and-culture"></a>
+
+* [Cities and Countryside](module-4-society-and-culture/cities-vs.-countryside.md)
+* [Faith and Learning](module-4-society-and-culture/faith-and-learning.md)
+* [Power Structures](module-4-society-and-culture/structures-of-power.md)
+* [Social Structures](module-4-society-and-culture/slaves-and-serfs.md)
+
+## In closing
+
+* [The End of the Early Middle Ages](in-closing/the-carolingian-experiment.md)
+

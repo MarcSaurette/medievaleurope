@@ -1,0 +1,26 @@
+# Assessment
+
+### Do we need grades?
+
+As students, you are probably used to being categorized by your grades. Maybe you have been taught to be so focused on grades that it is one of your key identities \(e.g. "I am an A-student\). I \(Marc\) certainly was. I felt academic competition was so central to who I was, that I never got out of the academic track and couldn't see myself outside of it - and thus ended up as your professor. It might have driven me, but learning doesn't necessarily happen best in this system. 
+
+Grades weren't widely used in universities and public education until the 1940s. This might seem like a long time, until you realize that so-called universities have been around for more than 800 years. Instead, I want your learning to primarily to be focussed on, well, learning, not on earning the intangible academic currency called grades. The competition inherent to "earning grades" often leads to poor academic practices among students– hoarding knowledge so that others can't access it, unwillingness to be collegial, and disdain for working together in case a slacker brings down your mark.  
+
+I want us to work together, share ideas and practice being Historians/ Medievalists in public without fear of failure \(failure can actually be a really good way to learn\). So in the first term we are going to practice "ungrading".
+
+{% hint style="info" %}
+If you want to read a bit more about the idea of ungrading and how it can work in classrooms see the [work by Jesse Stommel](https://www.jessestommel.com/how-to-ungrade/).
+{% endhint %}
+
+### Term I 
+
+While I don't really care about grades, other professors and, well, the university does. So it is perhaps useful for you to get some. Thus, we will use of a hybrid system of ungrading. 
+
+The first term of the course offers you space to experiment. For the most part, I will read and comment on your written work, but I won't give it a grade. Instead, you will be given advice on how to improve and better your work. You will regularly rate yourself for participation and at the end of term you will produce a "process letter" which makes an argument for what grade you should receive. Your process letter must take into account the single grade for first term that I will assign, for a polished piece of writing – drafts of which have been commented on by me and by your peers beforehand.
+
+### Term II 
+
+This might be more traditionally grade-focussed. 
+
+
+
