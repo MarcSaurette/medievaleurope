@@ -22,7 +22,7 @@ Digital editions:
 
 ### Foundation Charter Translation
 
-I'm posting a copy of the translation from Rosenwein's reader here so that we can annotate it together using Hypothes.is. We will work together to identify its structure, themes and purpose. Be aware that the translation is actually originally from Ernest F. Henderson's [_Select Historical Documents of the Middle Ages,_ ](https://en.wikisource.org/wiki/Select_Historical_Documents_of_the_Middle_Ages/Book_III/The_Foundation_Charter_of_the_Order_of_Cluny)\([Google Book facsimile](https://books.google.ca/books?id=HzUNAAAAIAAJ&pg=PA329#v=onepage&q&f=false) here\) \(London: George Bell and Sons, 1892\), 329-333. 
+I'm posting a copy of the translation from Rosenwein's reader here so that we can annotate it together using Hypothes.is. We will work together to identify its structure, themes and purpose. Be aware that the translation is originally from Ernest F. Henderson's [_Select Historical Documents of the Middle Ages,_ ](https://en.wikisource.org/wiki/Select_Historical_Documents_of_the_Middle_Ages/Book_III/The_Foundation_Charter_of_the_Order_of_Cluny)\([Google Book facsimile](https://books.google.ca/books?id=HzUNAAAAIAAJ&pg=PA329#v=onepage&q&f=false) here\) \(London: George Bell and Sons, 1892\), 329-333. 
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
