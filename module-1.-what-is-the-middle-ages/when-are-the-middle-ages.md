@@ -4,6 +4,10 @@
 
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 
+1. Learn about periodization, the temporal limits of the Middle Ages and why it exists as a historical period worthy of study
+2. Use hypothes.is to annotate primary source
+3. Learn how to read primary sources
+
 ### Overview:
 
 Provide a short rationale for this week’s work suggesting its purpose in terms of the program of studies. \(Why we're doing this...\)
@@ -18,7 +22,7 @@ What do students need to read this week?
 
 ### Practice
 
-Are there practical activities \(tasks, labs, fieldwork\), which students must do this week? If so, what are they and what specifically do they need to do, bearing in mind social-distancing?
+Cluny Foundation Charter - Annotation Exercise
 
 ### **Discuss**
 

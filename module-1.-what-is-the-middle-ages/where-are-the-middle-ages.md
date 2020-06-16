@@ -18,7 +18,7 @@ What do students need to read this week?
 
 ### Practice
 
-Are there practical activities \(tasks, labs, fieldwork\), which students must do this week? If so, what are they and what specifically do they need to do, bearing in mind social-distancing?
+Cluny foundation - translation exercise
 
 ### **Discuss**
 
