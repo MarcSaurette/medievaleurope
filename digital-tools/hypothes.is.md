@@ -10,14 +10,30 @@ Take a look at this[ twelfth-century version](https://www.e-codices.unifr.ch/en/
 
 But back to our annotations.
 
+### Installing Hypothes.is
+
 We will use [hypothes.is](hypothes.is.md) _via_ a plug-in on your Chrome Browser.
 
-1. If you don't already use Google Chrome, download a free copy [here](https://www.google.ca/chrome/) and install. The hypothes.is plugin really only works for Chrome. 
-2. Navigate to the hypothes.is website \([https://web.hypothes.is](https://web.hypothes.is/)\) and press the "Get Started" button. 
-3. Following the instructions there, sign up for an account and download/install the plugin.
-4. Click [this link](https://hypothes.is/groups/N1oaroPY/hist2000-medieval-europe) to join the class annotation group. 
-5. Play around with Hypothes.is. The first step is to view this page with the plugin activated, and **see the final instruction I have posted there**. You might also want to make a separate private folder for comments you want to keep to yourself \(or for each research project you are working on this year...\). 
-6. For a sense of what hypothes.is can do, take a look at their [tutorials](https://web.hypothes.is/help-categories/tutorials/).
+1.If you don't already use Google Chrome, download a free copy [here](https://www.google.ca/chrome/) and install. The hypothes.is extension only works for Chrome. 
+
+2. Navigate to the hypothes.is website \([https://web.hypothes.is](https://web.hypothes.is/)\) and press the "Get Started" button in the top right corner. 
+
+![](../.gitbook/assets/screen-shot-2020-06-16-at-2.03.38-pm.png)
+
+3. If you click on the "Get Started" button it will take you to page to sign up for an account and a link to download the Crhome extension. 
+
+![](../.gitbook/assets/screen-shot-2020-06-16-at-2.01.06-pm.png)
+
+4. First navigate to the account sign up. You can use any email and password. Just make sure to remember them both \(even better, write them down somewhere safe\). 
+
+![](../.gitbook/assets/screen-shot-2020-06-16-at-2.01.28-pm.png)
+
+5. Go back to the previous page \([https://web.hypothes.is/start/](https://web.hypothes.is/start/)\) and click to download the google chrome extension. 
+
+Click [this link](https://hypothes.is/groups/N1oaroPY/hist2000-medieval-europe) to join the class annotation group. 
+
+1. Play around with Hypothes.is. The first step is to view this page with the plugin activated, and **see the final instruction I have posted there**. You might also want to make a separate private folder for comments you want to keep to yourself \(or for each research project you are working on this year...\). 
+2. For a sense of what hypothes.is can do, take a look at their [tutorials](https://web.hypothes.is/help-categories/tutorials/).
 
 
 
