@@ -4,6 +4,7 @@ Translations are attempts to make an old text intelligible to current audiences.
 
 For this exercise, I want us to translate the Cluniac foundation charter into a form that makes sense to you. We're making a translation of Ernest F. Henderson's English translation, not \(for obvious reasons\) of the Latin original. 
 
+
 | 1892 Henderson translation | Our updated version |
 | :--- | :--- |
 | To all right thinkers it is clear that the providence of God has so provided for certain rich men that, by means of their transitory possessions, if they use them well, they may be able to merit everlasting rewards.  | It is obvious to anyone thinking properly, that God has chosen to  give great wealth to some men in order that they might use it to earn the reward of salvation – if they use their wealth properly. |
