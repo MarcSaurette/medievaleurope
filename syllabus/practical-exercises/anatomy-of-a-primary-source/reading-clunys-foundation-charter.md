@@ -17,7 +17,7 @@ If you want to see different versions of this foundation charter, consult any of
 
 Digital editions:
 
-* [CCE](https://www.uni-muenster.de/Fruehmittelalter/Projekte/Cluny/CCE/php/view.php?medium=text&urkunde=01120&band=1&seite=124#124). Text of foundation charter.
+* [CCE](https://www.uni-muenster.de/Fruehmittelalter/Projekte/Cluny/CCE/php/view.php?medium=text&urkunde=01120&band=1&seite=124#124). Latin text of foundation charter.
 * [Telma](http://www.cn-telma.fr/originaux/charte1581/). Description of original foundation charter \(in French, measurements and line by line transcription of Latin\). 
 
 ### Foundation Charter Translation
