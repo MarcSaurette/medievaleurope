@@ -30,3 +30,10 @@ To all right thinkers it is clear that the providence of God has so provided for
 
 \(Signed by Ingelberga and a number of bishops and nobles.\)
 
+### Further Readings
+
+Now that you've read the primary source, you should take a look at what scholars have said about it. They will give you further context to understand how what is explicitly said in the text is not the full \(or even true\) story. 
+
+* A [blog post](https://tenthmedieval.wordpress.com/2008/10/14/so-when-did-cluny-become-so-special-exactly/) by Jonathan Jarrett, a historian of the early Middle Ages, about the foundation charter. He has a specific point he wants to make, but his post has lots of good links and ideas related to the foundation charter. 
+* Barbara Rosenwein, the author of our textbook and editor of our course reader has published extensively on early Cluny. You can read parts of her discussion of the foundation charter in her book _Negotiating Space_ \(p. 157 ...\) which can be consulted through [googlebooks](https://books.google.ca/books?id=0C1zDwAAQBAJ&lpg=PP1&dq=Barbara%20Rosenwein&pg=PA157#v=onepage&q=Barbara%20Rosenwein&f=false) \(check out her footnotes for further sources, most in French\). 
+
