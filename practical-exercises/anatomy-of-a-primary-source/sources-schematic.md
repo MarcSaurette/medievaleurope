@@ -2,7 +2,7 @@
 
 Here is a simple visualization how historians use sources:
 
-![From the Past to Tertiary Sources](../../../.gitbook/assets/a59bcaf1-d489-4076-a8b3-ea022c18f19d.png)
+![From the Past to Tertiary Sources](../../.gitbook/assets/a59bcaf1-d489-4076-a8b3-ea022c18f19d.png)
 
 The world of the past is vast and, ultimately unknowable in its entirety. We depend on attempts to record and represent the world of the past when we write history.
 

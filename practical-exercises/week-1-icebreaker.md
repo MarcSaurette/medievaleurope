@@ -6,5 +6,7 @@ Well channel that feeling of awkwardness into introducing yourself online, which
 
 
 
+![](../.gitbook/assets/virtual-name-tag-template.jpg)
+
 ....
 
