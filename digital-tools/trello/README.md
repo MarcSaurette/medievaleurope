@@ -1,6 +1,6 @@
 # Trello
 
-What is Trello?
+### What is Trello?
 
 Trello is a digital task management platform based on the [Kanban Board](https://en.wikipedia.org/wiki/Kanban_board) model.
 
