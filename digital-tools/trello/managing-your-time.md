@@ -2,6 +2,8 @@
 
 There are different ways to work and if you're in university you've figured out some kind of system to get work done. If its not be a good system \(e.g. I can cram the night before and still pass"\), you might not be pleased with how you'll do this year. But university \(and life\) requires more of you as you go along. So if your work system seems to have stopped working, reflect a bit about how you work and what motivates you. 
 
+I urge you to think about how you organize your work because I have found that university students are among the busiest people. At few other times in your life will you be have your attention pulled in so many different directions. You might be taking five classes in five different fields, with different assignments in each due at different times with different expectations. On top of this you might be involved in extra-curricular activites, you likely have a job and you might even want some time to hang out with people who are important to you. This means that you have way more to keep track of than someone working a 9-5 job.
+
 ### Case study: your professor
 
 When I got to graduate school I \(Marc\) realized that I had few skills allowing me to tackle big projects. Sure, I was motivated to work when I arrived. I was used to receiving accolades from my undergraduate professors and thrived on positive feedback. But in graduate school, you don't get praise \(or at least I didn't, sigh\). The biggest compliment tended to be "You did an adequate job". So, I so found myself motivated by fear - fear of criticism or disapproval, fear of seeming stupid in front of my peers. And while I had classes to take, fear worked well to keep me on track. 
@@ -22,6 +24,14 @@ By planning your work, it will be easier to get it done. You don't spend time in
 
 There are many different ways to think about work. One of the hardest things about being a university student is that you are often vaguely told "Go write a paper" and are expected to know how to do that. In this class, we will provide some step-by-step instructions for doing some assignments, but as the course continues, we will tell you what to do less and less. The idea is that after you've done it once, you've been given the tools to do it again \(even if there are slightly different expectations and the project is different...\). The best thing for you to learn to do is to plan - i.e. to break down a project, such as writing an essay into a series of smaller actions to accomplish. [Trello](./) allows us a place to do so. 
 
+Spend 30 mins once a week trying to write down everything that you need to get done – that week and also anything new to be done in the following weeks. You should also get into the practice of spending some time everyday determining what next steps you need to take. And make them basic and simple steps. Determine your next action for that top to-do that consumes 20 minutes or less, then take it.
+
+* For instance, even something like “Clean up desk” is too broad and no good.  
+* It needs to brain-dead and easy to follow without any decision making. 
+* Good “next actions” could include “Type all random to-do scraps into StickyNotes, then discard paper” or “Remove all paper, and stack on floor for later scanning in OneNotes at 5pm \(set a reminder in your calendar/ reminder app\)”
+
+### Steps to write an assignment
+
 A paper which asks you to analyze a primary source has a lot of steps \(many of which are outlined [elsewhere](../../practical-exercises/anatomy-of-a-primary-source/) on the course site\). The major steps are:
 
 1. find the syllabus and read about the assignment again
@@ -39,21 +49,23 @@ A paper which asks you to analyze a primary source has a lot of steps \(many of 
    2. understand the words
    3. make sense of the source as a whole
 6. Read other things to help you understand the source
-   1. go to library catalogue
+   1. go to the online library catalogue
    2. search for information about the field
+      1. before you start to search, figure out what are the key words to search for online. Write them down. 
+      2. have you used Omni before? You might need to factor some time for figuring how to use it. 
    3. identify useful articles/ books to consult
    4. acquire them
       1. download
       2. read online
-      3. request and then pick up from library
+      3. request them. Figure out how to get to campus and  pick them up
    5. read them
 
       1. realize that half aren't useful \(return to the previous step\)
       2. feel like you understand what is going on in the source
-7. Only at this point, do you actually start thinking about writing. 
+7. Only at this point, do you actually start thinking about writing...
 
 {% hint style="info" %}
-The important take away is that there are many many tasks which have to be accomplished before you can start to write an assignment. It is very helpful to take time to think through all the tiny steps you need to take before you get to work on your assignments. A good rule for breaking down your work into tasks is that each task can be done in 15-30 minutes. If your task likely will take longer than that, break down the task into further tasks. 
+The important take away from this list is that **there are many many tasks which have to be accomplished before you can start to write** an assignment. It is very helpful to take time to think through all the tiny steps you need to take before you get to work on your assignments. A good rule for breaking down your work into tasks is that each task can be done in 15-30 minutes. If your task likely will take longer than that, break down the task into further tasks. 
 {% endhint %}
 
 ### Pomodoro Technique
