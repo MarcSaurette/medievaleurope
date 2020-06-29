@@ -33,7 +33,6 @@
     * [Managing your Time](digital-tools/trello/managing-your-time.md)
   * [cuLearn](digital-tools/culearn.md)
   * [cuPortfolio](digital-tools/cuportfolio.md)
-  * [BigBlueButton](digital-tools/bigbluebutton.md)
 * [Weekly Schedule](schedule.md)
 * [Practical Exercises](practical-exercises/README.md)
   * [Week 1 Icebreaker](practical-exercises/week-1-icebreaker.md)
