@@ -68,19 +68,9 @@ Watch a video about what it is. Microsoft adds lots of touching music and feel g
 
 Download a PDF "[Quick Start Guide](https://edudownloads.azureedge.net/msdownloads/MicrosoftTeamsforEducation_QuickGuide_EN-US.pdf)" to understand how Teams works. 
 
+Go to the next page for more information about how to use Teams for this class. 
+
 {% hint style="danger" %}
 Microsoft is pushing Teams in 2020 as their videoconference/ teaching solution because of the deperate need of schools, universities and government to quickly adopt a distance-learing "solution". It keeps getting updated and new functionalities appear frequently, so what it can do/ how we can use it might change over the course of our class.  
 {% endhint %}
-
-### Scheduling a Teams Meet up with Classmates, for fun or learning
-
-The class will have a regular meeting scheduled in outlook. But you may wish to schedule one-on-one or small group meetings with your classmates. To do so:
-
-1. Open up the Teams app or software ...
-2. Navigate to the calendar tab on the far left of the window. 
-3. Click on "Meet Now" button in the top right if you want to meet up right away or schedule a meeting for later by clicking on the "New Meeting tab". 
-   1. If you select "Meet Now", you will add invitees once you \(the host\) have started up your videoconference window. 
-   2. If you select, "New Meeting" you will have the opportunity to name it, decide the meeting time, and pre-invite invitees. 
-
-Microsoft has a helpful [how-to guide](https://support.office.com/en-us/article/schedule-a-meeting-in-teams-943507a9-8583-4c58-b5d2-8ec8265e04e5) if you need further help scheduling something. 
 

@@ -67,3 +67,15 @@ So I'll maybe stop there for now. Let me know if there are other things to make 
 * Microsoft has released "Whiteboard" which works pretty well for jotting down notes like on, well, a whiteboard and sharing with others. It installs on mobile devices and is accessed via browsers \(but not Safari\) on computers. 
 * And I haven't talked at all about how to organize video-conferencing for teaching, but Microsoft has that covered pretty well ....
 
+### Scheduling a Teams Meet up with Classmates, for fun or learning
+
+The class will have a regular meeting scheduled in outlook. But you may wish to schedule one-on-one or small group meetings with your classmates. To do so:
+
+1. Open up the Teams app or software ...
+2. Navigate to the calendar tab on the far left of the window. 
+3. Click on "Meet Now" button in the top right if you want to meet up right away or schedule a meeting for later by clicking on the "New Meeting tab". 
+   1. If you select "Meet Now", you will add invitees once you \(the host\) have started up your videoconference window. 
+   2. If you select, "New Meeting" you will have the opportunity to name it, decide the meeting time, and pre-invite invitees. 
+
+Microsoft has a helpful [how-to guide](https://support.office.com/en-us/article/schedule-a-meeting-in-teams-943507a9-8583-4c58-b5d2-8ec8265e04e5) if you need further help scheduling something. 
+
