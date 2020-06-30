@@ -4,7 +4,7 @@ Communicating with one another is the key to a successful online class.
 
 Given the distance-learning component of this course, we will all need to be pro-active and intentional with our communications and interactions. This is particularly important not only since the course will be distance-learning, but also because we will have to use multiple different software platforms to interact.
 
-As such, although it probably will feel a bit overstructured, please read the following carefully. Knowing all of the avenues and opportunities for contact and communication – and maximizing the opportunities you have – will be crucial to making sure you have the best learning experience possible in this course.
+Although it probably will feel a bit overstructured, please read the following carefully. Knowing all of the avenues and opportunities for contact and communication – and maximizing the opportunities you have – will be crucial to making sure you have the best learning experience possible in this course.
 
 {% hint style="info" %}
 Information about the process to request an extension/accommodation for reasons of personal/health emergency is found in [Deadlines](../deadlines.md#extensions-and-accommodations)
