@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to the Medieval World](README.md)
+* [How to Join the Online Class](how-to-join-the-online-class.md)
 * [Syllabus](syllabus/README.md)
   * [Your Professors](syllabus/your-professor/README.md)
     * [Dr. Marc Saurette](syllabus/your-professor/dr.-marc-saurette.md)

@@ -4,9 +4,11 @@ I consider it very important for students to have direct access to the professor
 
 ### How to attend office hours
 
-I'll have office hours each week on Wednesday afternoons after class. 
+I'll have office hours each week on Thursday mornings. 
 
-We can meet one-on-one via [Teams](../../digital-tools/teams/). I'll have a standing meeting which you can see recorded in the Calendar integrated into the Teams software. Just as you click to join class each week, you'll click to join the office hours meeting. Instead of it being the whole class together, however, I will admit people into the discussion on a person-by-person basis. 
+We can meet with students one-on-one via [Teams](../../digital-tools/teams/). I'll have a standing meeting which you can see recorded in the calendar integrated into the Teams software. 
+
+Just as you click to join class each week, you'll click to join the office hours meeting. Instead of it being the whole class together, however, I will admit people into the discussion on a person-by-person basis. 
 
 I think they'll be a sign up sheet somewhere....
 
