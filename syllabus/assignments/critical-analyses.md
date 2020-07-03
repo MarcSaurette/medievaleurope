@@ -19,11 +19,11 @@ Documents rarely “tell their own story”. They require analysis and interpret
 
 ### Suggested stages for preparing a document analysis paper:
 
-1. Select a document from the source reader. Any document from pages 1-251 of _Reading the Middle Ages_ is suitable \(including those covered in discussion group\). Additional readings and images posted on cuLearn can also be the object of your analysis.
+1. Select a document from the source reader. Any document from pages 1-251 of _Reading the Middle Ages_ is suitable \(including those covered in class\). Additional readings and images posted on cuLearn for class can also be the object of your analysis.
 2. Read the document\(s\). An initial reading will allow you to discover what kinds of ideas are present in the document.
 3. Identify the context. When was the document written, by whom, and why?
 4. Understand the context. Reread the textbook or your class notes to understand the time during which the text was written. You may also wish to consult additional articles or monographs which deal with the subject you have chosen to consider.
-5. Identify a thesis for your paper. 
+5. Identify a [thesis](https://clas.uiowa.edu/history/teaching-and-writing-center/guides/argumentation) for your paper. 
 6. Reread the source\(s\). A second reading will allow you to identify what information and quotations will be useful in making your argument.
 
 ### Suggested framework for the paper 
@@ -33,13 +33,17 @@ This is a suggestion to give you guidance. Feel free to use whatever format best
 1. **Title**: Please include your name, student number, the course title and code, the name of your professor and your TA, and a title which addresses your particular topic and thesis. Do not use “Document Analysis” or the title of the document that you are studying as your title.
 2. **Introduce topic**: Your paper should begin with a brief introduction which summarizes your topic \(e.g. status of women in the Theodosian Code\) and thesis \(e.g. I argue that the laws around marriage show legal inequalities in Byzantine society\). You are not writing a detective novel and should not leave the reader in suspense. Also, please do not begin your paper with, “throughout history”, “from the dawn of time”, or “according to Webster’s dictionary”. Indulge me, or pay the consequences.
 3. **Identify context**: You should state at the outset of your essay what document you have chosen and provide a brief description of it, of its author, if known, and of the time and place for which the source is relevant \(a single paragraph would suffice\).
-4. **Describe document**. Below are sets of questions that you are to address in constructing your analysis.  All of these questions are interrelated and will help shape your analysis.   Please know that your paper should not simply be a list of answers to these questions:
+4. **Describe document**. Below are sets of questions that you are to address in constructing your analysis.  All of these questions are interrelated and will help shape your analysis, but not all need to be addressed in the paper. When writing the paper is is a good idea to figure out answers to as many questions as possible, but not necessarily include them in your paper if it is not relevent. When you figure out something you find super interesting \(but not related to your thesis\) you should put them into a footnote!
 
 * Reflect briefly on the historical context of the primary source. When and where was the source produced? In general, what were major political, social, economic, or intellectual currents of the time period? 
 * Reflect on the author of the primary source: Who produced this primary source? What was the author’s place in society \(profession, status, class, gender, ethnicity, etc\)? How might these factors influence the author’s point of view in the document? How would you characterize the author’s perspective? 
 * Reflect on the audience of the primary source: What was the intended audience for this primary source? How might considerations about the intended audience shape the content and form offered in this source? 
 * Reflect on the purpose of the primary source: A document’s form and purpose affects the material it contains. Why was this source written? What was the historical context in which the source was produced? What form of document is this \(Legal? Opinion? Personal Letters?\)? How does its form affect its content?
 * How do author, audience, and purpose affect the reliability of this document as primary source? For example, did the author know enough to make accurate assessments in his observations? Does the author have reasons for excluding or misrepresenting information to the intended audience? How does the form \(i.e. type\) of document affect its reliability as a historical source?
+
+{% hint style="info" %}
+Remember! Your paper should not simply be a list of answers to these questions:
+{% endhint %}
 
 Given the answers to these five potential areas of discussion, briefly speculate on what kinds of historical inquiry would best be supported by this source. A history of how ideas of “race” came about? An analysis of the role of women in colonial society? An analysis of the causes of a particular uprising, movement, or revolution?
 
@@ -54,6 +58,10 @@ For an appropriate citation guide for history: see the Chicago manual of style \
 ### Rewritten Document Analysis
 
 The rewritten document analysis should incorporate the feedback offered by your peers/ professors as well as demonstrate further research. Your rewritten document analysis should also demonstrate further your familiarity with key secondary sources on the topic you are writing. 
+
+In the time between submitting your first draft and the second, you should do more reading about your topic, so that when it comes time to review your paper, you will have more knowledge about the context of the document and perhaps about how historians have understood its significance. Your reading might in fact change how you view the document, and thus might require you alter your interepretation of the evidence it offers. 
+
+The goal of writing a second "final" draft is to mirror "Peer Review" in the academic [research process](../../practical-exercises/anatomy-of-an-academic-article/the-research-process.md). By being questions and asked to think more about a study \(understood to be complete\), you are pushed to improve and buttress your arguments. At the second year, you are still becoming familiar with how to come up with theses and support your arguments with evidence, so peer review gives you an opportunity to see how your writing is understood by others. 
 
 ### Evaluation for the Rewritten Document Analysis
 

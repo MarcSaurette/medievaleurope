@@ -6,7 +6,7 @@ In _academia_ we almost always use the word "[critical](https://www.oed.com/view
 
 Well, you actually don't need to be too critical in this one actually. 
 
-Since we won't be meeting in person \(in first term, at least\), I want all the students to put together a profile page on which gives your fellow students a sense of who you are, why you took the course, how many cute animals you have ... [Here](https://cuportfolio.carleton.ca/view/view.php?t=R0JhOVq2vQu3xfWjiceY) is a simple profile page I've put together for myself. 
+Since we won't be meeting in person \(in first term, at least\), I want all the students to put together a profile page which gives your fellow students a sense of who you are, why you took the course, how many cute animals you have, your social media id's \(if you want\) ... [Here](https://cuportfolio.carleton.ca/view/view.php?t=R0JhOVq2vQu3xfWjiceY) is a simple profile page I've put together for myself. 
 
 To get started on [cuPortfolio](../../digital-tools/cuportfolio.md), students will need to copy the collection, "Coursework" to their portfolio and then share with the class \([instructions here](../../digital-tools/cuportfolio.md#here-is-a-rough-guide-to-getting-started-with-cuportfolio)\). Then edit the page entitled "Profile". 
 
@@ -44,7 +44,7 @@ After submitting and receiving peer feedback on your pop culture commentary and 
 *       What did you change?
 *       What did you learn from your peers?
 *       What mistakes did you note in your peers’ work?
-*       what makes for a well written commentary on pop culture?
+*       what makes for a well-written commentary on a historical document?
 *       what might you do differently next time?
 
 ### Critical Reflection No. 3

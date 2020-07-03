@@ -10,7 +10,7 @@ Participation is very important for this class since one of its main learning ob
 The most important part of participation is being prepared. You might be willing to contribute and be able to speak persuasively, but this does not contribute if you have not read and thought about the materials assigned for each class. 
 
 {% hint style="info" %}
-We are going to experiment with the QQTP method for class.  Each week before class, you should post the following on the QTTP channel on Team: 
+We are going to experiment with the QQTP method for class.  Each week before class, you should post the following in the QTTP section of the Class OneNote notebook on Teams: 
 
 **a Question**: Write a discussion question based on any one of the readings assigned. As you read assigned materials, note where questions come to mind about the ideas, timeline, methods or conclusions. This can be a simple, "What is X the author is talking about" or a thoughtful question that invites analysis, synthesis, or evaluation of the material, or makes connections between the readings/ previous discussion.
 
@@ -35,50 +35,29 @@ Our plan is to give students a wide variety of opportunities to actively partici
 
   * At some point during most classes, students will be broken up into small \(5 person\) breakout groups to discuss a particular question/theme, after which groups will be invited to report back to the full class.
 
-* Additional voluntary discussion group meetings \(weekly\)
-  * The aim of these meetings is to give students another opportunity to connect with an instructor and dive deeper into any of the intellectual content of the course. 
+* Additional voluntary discussion group meetings
 
-§  As such, there will be one additional, purely voluntary, and entirely student-led 1-hr “discussion group” held each week on Teams where students, together with a TA,  will discuss any issue/question related to the intellectual content of the course. 
+  * The aim of these meetings is to give students another opportunity to connect and dive deeper into any of the intellectual content of the course. 
 
-§  There will be no set agenda or theme, nor do the discussions need to focus on the readings of that week. Rather, the group will discuss whatever questions and issues the students who are present want to raise. The only criteria is that they are related to the intellectual content of the class. The TA will facilitate these discussions and clarify/add their perspective when appropriate. But the TA will not bring questions/themes themselves. This will be the student’s chance to focus on exactly what they are interested in.
+* Discussions with TA/prof during office hours
 
-o  Discussions with TA/prof during office hours
+### General principles of evaluation: 
 
-§  We are offering substantial extra-class contact hours this term. You will be able to connect, live and one-on-one, with one of us every day of the week.
+Given the variety of factors that might impact a given student’s ability to participate fully and consistently through any one of these methods \(and to ensure that the professor can be as flexible as possible accommodating students’ specific situations\), participation will be understood holistically. That is to say, participation is viewed as the sum total of a student’s participation through all of the above \(and other\) methods – meaning that it is possible for students to successfully satisfy their participation mark without engaging in all types of participation every week. 
 
-§  While we would like to reserve the office hours before class primarily for logistical issues, that still leaves three other sets of weekly office hours \(09h00-10h00 Tues, Thurs, and Friday\) to chat with one of us. 
+In general, here are some examples of the type of questions studets will be asked to think about in evaluating their participation:
 
-o  So, all told, we feel confident that you will have many different opportunities to participate in class and engage fully with the material.
+* Did the student remain strongly focused during the class and did s/he/they seek to actively listen/process/integrate the ideas during class lectures/discussions?
+* Did the student participate in class discussion \(e.g. through live questions/comments; through the chat/whiteboard functions; during voluntary discussion groups\)? 
+* Did the student demonstrate significant and insightful knowledge regarding class material \(has s/he been able to consistently answer questions about the readings in class, pose thoughtful questions in/outside of class, demonstrated that s/he/they has attempted to connect the themes/ideas of class to the contemporary world, etc\)?
+* Did the student enhance the learning environment by participating respectfully in discussions with her/his colleagues?
 
-·      In terms of the general principles of evaluation of participation: 
+While you will be asked to self-evaluate your participation, your instructors and teaching assistant will keep track of their subjective evaluation of your work. 
 
-o  Given the variety of factors that might impact a given student’s ability to participate fully and consistently through any one of these methods \(and to ensure that the professor can be as flexible as possible accommodating students’ specific situations\), participation will be evaluated holistically, in multiple ways. 
+* First, in each class, the professors and TA will track and record attendance and observable forms of participation– including live questions/comments; whiteboard comments/questions; content engagement on the chat board; discussions in breakout groups; etc. 
+* Second, at the end of each week, you will be asked given a link to a MS Form and fill out the ‘Class Participation Self-Evaluation’ questionnaire for the relevant class. It will ask you to holistically self-evaluate your participation based on a detailed rubric. This will allow you to give us an idea of where you think your participation each class falls on the scale.
 
-o  That is to say, the participation mark will be based on the sum total of a student’s participation through all of the above \(and other\) methods – meaning that it is possible for students to successfully satisfy their participation mark without engaging in all of those fora, every class. 
-
-o  In general, here are some examples of the type of questions that will be posed about a student’s participation to determine their mark:
-
-§  Did the student remain strongly focused during the class and did s/he seek to actively listen/process/integrate the ideas during class lectures/discussions?
-
-§  Did the student participate in class discussion \(e.g. through live questions/comments; through the chat/whiteboard functions; during voluntary discussion groups\)? 
-
-§  Did the student demonstrate significant and insightful knowledge regarding class material \(has s/he been able to consistently answer questions about the readings in class, pose thoughtful questions in/outside of class, demonstrated that s/he has attempted to connect the themes/ideas of class to the contemporary world, etc\)?
-
-§  Did the student enhance the learning environment by participating respectfully in discussions with her/his colleagues?
-
-·      In terms of the mechanics of the evaluation of participation: how are we going to actually evaluate participation? 
-
-o  We have put in place a rigorous and systematic method to track and recognize class participation and we are going to use multiple methods to triangulate your final participation grade.
-
-o  First, in each class, the professor and TAs will track and record participation – including live questions/comments; whiteboard comments/questions; content engagement on the chat board; discussions in breakout groups; etc. 
-
-o  Second, at the end of each class, you will be asked to log into Brightspace and fill out the ‘Class Participation Self-Evaluation’ questionnaire for the relevant class. It will ask you to holistically self-evaluate your participation based on a detailed rubric. This will allow you to give us an idea of where you think your participation each class falls on the scale and will help triangulate against our own observations.
-
-o  Third, each week, the professor and the TA’s will also note any participation that students demonstrated outside of class \(e.g. participation in voluntary discussion group meetings, intellectual exchanges during office hours, etc\) – and will adjust that week’s participation marks accordingly.
-
-o  Fourth, you will also complete a final ‘overall attendance and participation’ self-evaluation questionnaire in Brightspace as part of your final assignments. 
-
-o  We will then take all of these into account when establishing your participation mark. We will only grade your participation formally only at the end of the term. However, you are welcome to discuss your participation mark with us during office hours at any time during the term if you have any concerns, questions or would like some suggestions about how to participate more actively. 
-
-o  Note: If it is judged that a student has consistently \(i.e. in every class\) participated at an exceptional level throughout the term, s/he may also receive an additional bonus mark of up to 5% extra.
+{% hint style="info" %}
+ If the professors assess that a student has consistently \(i.e. in every class\) participated at an exceptional level throughout the term, the professors may decide to reward bonus marks, above what the student has self-assessed.
+{% endhint %}
 
