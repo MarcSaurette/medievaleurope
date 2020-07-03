@@ -29,7 +29,7 @@ In our experience, live discussions are by far the best and most efficient way t
 *  It is also usually true for logistical questions as well. First off, given our processes, you will almost always be able to get your question answered faster by connecting with us live rather than via written communications \(see below for details\).
 
 {% hint style="danger" %}
- Obviously there are exceptions to this rule – particularly in the case of extremely urgent logistical/emergency issues \(see below\); a situation where it is not feasible/desirable to talk live; sensitive issues you would like to communicate by writing rather than live; etc.
+ Obviously there are exceptions to this rule – particularly in the case of extremely urgent logistical/emergency issues \(see below\); such as, a situation where it is not feasible/desirable to talk live or sensitive issues you would like to communicate by writing rather than live.
 {% endhint %}
 
 #### **Contact with Peers**
@@ -38,7 +38,7 @@ There will be a variety of official channels through which you can connect with 
 
 * MS Teams chat/ videoconference functions before, during and after class
 * Small group breakouts in class
-* Self-scheduled group meetings
+* Self-scheduled group meetings you can organize via Teams
 
 #### **Live Contact with Professor/ TA** 
 
@@ -71,7 +71,7 @@ Given all that, if it is possible to do so, it is almost always more efficient t
 If your question is primarily a straightforward logistical one \(e.g. when an assignment is due, other information about how the class runs, etc\) – follow this order:
 
 1. Start by looking at the announcements on the Teams site, rereading the syllabus on Gitbook and/or your notes from class \(especially the intro class\) – the answer is probably there. You can easily search the Teams site by keywords.
-2. If your question isn’t so straightforward, the next step is to reach out to a classmate/post a question on the chat of the "General" Channel of the Medieval Europe Teams site before class. They’ll probably be able to help.
+2. If your question isn’t so straightforward, the next step is to reach out to a classmate/post a question on the chat of the "General" Channel of the **Medieval Europe** Teams site before class. They’ll probably be able to help.
 3. If neither of those work, contact the TA – ideally live during the ‘logistical’ office time before class.
 4.  If none of the above are successful or appropriate, then contact the prof – ideally live during office hours.
 
