@@ -1,6 +1,6 @@
 # Coursework
 
-When learning in person, professors and students meet in class for lectures and to discuss readings, debate etc. Thus, some learning happens together at the same time, and some other learning happens on the student's own time \(e.g. writing papers, doing readings etc.\). When a course is online, this is also the case. We will have some time together \([Ms Teams](../../digital-tools/teams/) or [BigBlueButton]() time\), and some time learning happens "asynchronously" \(i.e. on our own time\). 
+When learning in person, professors and students meet in class for lectures and to discuss readings, debate etc. Thus, some learning happens together at the same time, and some other learning happens on the student's own time \(e.g. writing papers, doing readings etc.\). When a course is online, this is also the case. We will have some time together \(via [Ms Teams](../../digital-tools/teams/)\), and some time learning happens "asynchronously" \(i.e. on our own time\). 
 
 Usually when I teach this course, I divide work into oral and written work. Oral work usually consists of "participation" i.e. being in class, asking questions, showing you've learned from doing the readings, etc \(an abbreviation of _et cetera_, Latin for "and other things"\). But participation, since we're taking this online, will be based on "conversations"/ discussions in the [Teams](../../digital-tools/teams/) platform. Over the course of the first term, you will complete the following work – designed so that you build on skills you will have acquired earlier in the year. 
 
