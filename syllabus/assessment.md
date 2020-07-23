@@ -14,7 +14,7 @@ If you want to read a bit more about the idea of ungrading and how it can work i
 
 ### Term I 
 
-While I don't really care about grades, other professors and, well, the university does. So it is perhaps useful for you to get some. Thus, we will use of a hybrid system of ungrading. 
+While I don't really care about grades, other professors and, well, the university do. So it is perhaps useful for you to get some. Thus, we will use of a hybrid system of ungrading. 
 
 The first term of the course offers you space to experiment. For the most part, I will read and comment on your written work, but I won't give it a grade. Instead, you will be given advice on how to improve and better your work. You will regularly rate yourself for participation and at the end of term you will produce a "process letter" which makes an argument for what grade you should receive. Your process letter must take into account the single grade for first term that I will assign, for a polished piece of writing – drafts of which have been commented on by me and by your peers beforehand.
 
