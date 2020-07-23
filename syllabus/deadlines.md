@@ -10,6 +10,8 @@ For this class to work, especially in an online environment, everyone needs to g
 | Critical reflection no. 1 | end of week 4 |
 |  |  |
 
+\*The "end of the week" is understood to be by 5pm on Fridays. 
+
 ### Extensions and Accommodations
 
 The current university policy for asking for special extensions due to illness is available from the Registrar's office, which has a COVID-19 self-declaration form \([https://carleton.ca/registrar/wp-content/uploads/COVID-19\_Self-declaration.pdf](https://carleton.ca/registrar/wp-content/uploads/COVID-19_Self-declaration.pdf)\). Students can use it to ask for deferral/extensions for term work.  Students can submit this form, instead of having to get a doctor’s note.
