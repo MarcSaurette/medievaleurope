@@ -23,7 +23,7 @@ You can also install no software at all and just use Teams through a browser –
 
 ![](../../.gitbook/assets/screen-shot-2020-06-09-at-1.53.43-pm.png)
 
-6. Install the program as you normally would and then start it up. I installed it on my mac and an installer automatically opened up. I blindly agree to anything it demanded without reading the conditions...
+6. Install the program as you normally would and then start it up. I installed it on my Mac and an installer automatically opened up. I blindly agree to anything it demanded without reading the conditions...
 
 ![The Teams Package installer \(on a Mac\)](../../.gitbook/assets/screen-shot-2020-06-10-at-11.06.27-am.png)
 
@@ -47,7 +47,7 @@ BUT if this is your first time signing into Teams, you will likely encounter som
 
 So this is a bit confusing, becuase your Carleton IT admins have enabled Microsoft Teams for Carleton students. So what you need to do is click on that button, "Sign Up for Teams". It might take you to another page where you enter the same "cmail" Carleton email address you did before, and follow their instructions. Then, the Microsoft website should then send you back to the Carleton email authentication page \(above step 8\) to finalize everything. 
 
- Or it might just keep sending you back to this message recursively. I would love to write this section up with screen shots for you, but I can't ... because I already did this stage before I realized I would need to explain this to other people. So try two things:
+Or it might just keep sending you back to this message recursively. I would love to write this section up with screen shots for you, but I can't ... because I already did this stage before I realized I would need to explain this to other people. So try two things:
 
 1. You might need to enable additional Office365 features. Carleton has instructions on how to do this on this webpage \([https://carleton.ca/its/o365/unsupported/](https://carleton.ca/its/o365/unsupported/)\), where they declare \(most forcefully, I do declare\): 
 
@@ -62,7 +62,7 @@ To **enable** Microsoft Office 365 Services, \(other than email which is pre-ena
 
 ### Using Teams
 
-If you haven't used it before \(and I haven't before May of this year\) Teams will take a bit of getting used to understand how it works best. 
+If you haven't used it before \(and I haven't before May, 2020\) Teams will take a bit of getting used to understand how it works best. 
 
 Watch a video about what it is. Microsoft adds lots of touching music and feel good images to make you think that it will solve all your problems. It won't but, they do give you a bit of a sense on how to use Teams. 
 

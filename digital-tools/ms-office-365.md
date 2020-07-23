@@ -2,6 +2,10 @@
 
 Office 365 is Microsoft's subscription-based enterprise tools package. You'll find that you might want to use all or maybe only a few of these in class this year. Certain of these tools are a standard that you might use throughout university and in later jobs,, such as Word for word processing, Excel for spreadsheets, Outlook for mail/scheduling etc. Others, like Teams and Whiteboard are relatively new products that might stick around or might not. 
 
+{% hint style="danger" %}
+You may already have Office 365 installed on your computer using a non-Carleton ID. You will need to make sure that you are signed into Office with your CMAIL account in order to take advantage of its integration with Microsoft Teams which we will be using to communicate by text or videoconferencing. 
+{% endhint %}
+
 For our class, we are going to use Microsoft [Teams](teams/), so be sure to download, install and test it out before class starts. 
 
 ### How to Install MS Office 365 for free from Carleton
