@@ -32,6 +32,8 @@ I'll post an overview schedule for the Fall term here. Obviously, this is still 
 
 ### Week 10. Module 4.2 [Faith and Learning](module-4-society-and-culture/faith-and-learning.md)
 
+* [Draw a Monastery activity](https://lochinbrouillard.wordpress.com/2019/11/06/class-activity-draw-a-monastery/)
+
 ### Week 11. Module 4.3 [Power Structures](module-4-society-and-culture/structures-of-power.md)
 
 ### Week 12. Module 4.4 [Social Structures](module-4-society-and-culture/slaves-and-serfs.md)

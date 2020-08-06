@@ -20,6 +20,10 @@ What do students need to read this week?
 
 Are there practical activities \(tasks, labs, fieldwork\), which students must do this week? If so, what are they and what specifically do they need to do, bearing in mind social-distancing?
 
+Draw amonastery activity: [https://lochinbrouillard.wordpress.com/2019/11/06/class-activity-draw-a-monastery/](https://lochinbrouillard.wordpress.com/2019/11/06/class-activity-draw-a-monastery/)
+
+
+
 ### **Discuss**
 
 What questions should students be discussing with each other on the discussion board for this course?

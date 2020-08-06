@@ -7,7 +7,8 @@ By the end of this week, what should students **know**, be able to **do** and **
 1. Download and install Microsoft Teams
 2. Login to our Medieval Europe group on Teams to say hello
 3. [icebreakers](https://www.leveragingelearning.com/lel-blog/6-engaging-icebreakers-for-your-online-students)
-4. Familiarize yourself with some of the tools we'll be using this year. 
+4. Familiarize yourself with some of the tools we'll be using this year.
+5. Complete this **background survey** to let me know more about you. 
 
 ### Overview:
 
