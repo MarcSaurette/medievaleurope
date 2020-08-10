@@ -1,4 +1,4 @@
-# Week 1 Icebreaker
+# Icebreaker
 
 For our first week, we'll open an activity to get to know each other. Imagine yourselves as if we're in class, awkwardly avoiding everyone's eyes in case you feel compelled to say something. 
 

@@ -37,7 +37,7 @@
   * [cuPortfolio](digital-tools/cuportfolio.md)
 * [Weekly Schedule](schedule.md)
 * [Practical Exercises](practical-exercises/README.md)
-  * [Week 1 Icebreaker](practical-exercises/week-1-icebreaker.md)
+  * [Icebreaker](practical-exercises/week-1-icebreaker.md)
   * [On Apathy and Historical Thinking](practical-exercises/on-apathy-and-historical-thinking.md)
   * [Anatomy of a Primary Source](practical-exercises/anatomy-of-a-primary-source/README.md)
     * [Sources Schematic](practical-exercises/anatomy-of-a-primary-source/sources-schematic.md)

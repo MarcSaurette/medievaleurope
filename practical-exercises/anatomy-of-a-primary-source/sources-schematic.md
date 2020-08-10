@@ -19,9 +19,7 @@ They can take the form of:
 * conference presentations \(the usual first step of academic inquiry is to present initial findings and thoughts in a 15-30 minute talk at a scholarly conference\). 
 * journal articles \(usually narrowly-focused write up of research; can also be survey of other secondary sources - i.e. a "literature review"\). 
 * monographs \(a book written on a single topic; parts of it might originally have been written up as different articles\)
-* edited volumes \(a collection of essays and articles written by several people loosely organized around a single theme. Often are proceedings from conferences\). 
+* edited volumes \(a collection of essays and articles written by several people loosely organized around a single theme. Often are proceedings from conferences\).
 
-
-
-* **Tertiary sources** are attempts to summarize what has been argued in secondary sources without engaging in original research on its own. These are sources like encyclopedias or Dictionaries. They do not attempt to be cutting edge but rather summarize what is generally understood in reputable scholarship about a topic. This is why you will see on Wikipedia, for example, that an article is criticized for containing "[original thought](https://en.wikipedia.org/wiki/Wikipedia:No_original_research)" \(i.e. trying to be a secondary source\) which is something Wikipedia seeks to prohibit. 
+* **Tertiary sources** are attempts to summarize what has been argued in secondary sources without engaging in original research on its own. These are sources like encyclopedias or dictionaries. They do not attempt to be cutting edge but rather summarize what is generally understood in reputable scholarship about a topic. This is why you will see on Wikipedia, for example, that an article is criticized for containing "[original thought](https://en.wikipedia.org/wiki/Wikipedia:No_original_research)" \(i.e. trying to be a secondary source\) which is something Wikipedia seeks to prohibit. 
 
