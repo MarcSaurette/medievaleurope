@@ -1,4 +1,4 @@
-# Teaching in the Time of Coronovirus
+# Teaching in a Pandemic
 
 {% hint style="info" %}
 This year especially, life might be difficult for you. We are going to have a harder time picking up on this due since we're online. So, please, if you need some help \(in class, in life\) please reach out to us so we can do what we can or put you in contact with people who can. 

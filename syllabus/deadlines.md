@@ -6,9 +6,14 @@ For this class to work, especially in an online environment, everyone needs to g
 
 | Assignment | Date due |
 | :--- | :--- |
-| cuPortfolio profile | end of week 2 |
-| Critical reflection no. 1 | end of week 4 |
-|  |  |
+| cuPortfolio profile | Friday of week 2 |
+| Critical reflection no. 1 | Friday of week 4 |
+| Critical refleciton no. 2 | Friday of week |
+| Critical reflection no. 3 | Friday of week |
+| Draft Document Analysis | Friday of week |
+| Peer Feedback | Friday of week |
+| Rewritten Document Analysis | Friday of week |
+| Process Letter | Friday of week |
 
 \*The "end of the week" is understood to be by 5pm on Fridays. 
 

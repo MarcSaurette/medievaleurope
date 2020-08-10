@@ -2,6 +2,7 @@
 
 * [Welcome to the Medieval World](README.md)
 * [How to Join the Online Class](how-to-join-the-online-class.md)
+* [Teaching in a Pandemic](teaching-in-the-time-of-coronovirus.md)
 * [Syllabus](syllabus/README.md)
   * [Your Professors](syllabus/your-professor/README.md)
     * [Dr. Marc Saurette](syllabus/your-professor/dr.-marc-saurette.md)
@@ -21,7 +22,6 @@
     * [Process Letter](syllabus/assignments/process-letter.md)
   * [Assessment](syllabus/assessment.md)
   * [Deadlines](syllabus/deadlines.md)
-  * [Teaching in the Time of Coronovirus](syllabus/teaching-in-the-time-of-coronovirus.md)
   * [Supplemental Material](syllabus/supplemental-material.md)
 * [Digital Tools](digital-tools/README.md)
   * [MS Office 365](digital-tools/ms-office-365.md)
