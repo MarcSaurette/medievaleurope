@@ -10,7 +10,7 @@ Participation is very important for this class since one of its main learning ob
 The most important part of participation is being prepared. You might be willing to contribute and be able to speak persuasively, but this does not contribute if you have not read and thought about the materials assigned for each class. 
 
 {% hint style="info" %}
-We are going to experiment with the QQTP method for class.  Each week before class, you should post the following in the QTTP section of the Class OneNote notebook on Teams: 
+We are going to experiment with the QQTP method for class.  When you are reading the textbook on Perusall in preparation for class, you are able to highlight key texts, pose questions and make comments in the margins of the textbooks. 
 
 **a Question**: Write a discussion question based on any one of the readings assigned. As you read assigned materials, note where questions come to mind about the ideas, timeline, methods or conclusions. This can be a simple, "What is X the author is talking about" or a thoughtful question that invites analysis, synthesis, or evaluation of the material, or makes connections between the readings/ previous discussion.
 
@@ -23,6 +23,8 @@ We are going to experiment with the QQTP method for class.  Each week before cla
 
 Our plan is to give students a wide variety of opportunities to actively participate in the course. In fact, students may actually have more ways to show participation in this online model. Students will be able to actively participate through the following :
 
+* Annotation and commenting on Perusall. 
+  * Students are asked to read, comment on and reflect on the textbook readings \(and additional assigned/optional texts\) via Perusall. 
 * Q+A periods during lectures 
 
   * Students will be encouraged to add questions/comments throughout lectures; during mid-lecture Q+A periods, the profs and TA’s will pick several questions/comments to discuss further/respond to
