@@ -4,6 +4,8 @@
 This year especially, life might be difficult for you. We are going to have a harder time picking up on this due since we're online. So, please, if you need some help \(in class, in life\) please reach out to us so we can do what we can or put you in contact with people who can. 
 {% endhint %}
 
+Teaching and learning this year will be a bit of an experiment. I will be teaching with software I haven't used before and likely you will be learning in ways different than previous classes. And you might be using different software for each of your classes with professors demanding different forms of etiquette in each. Thus we need to all be extra patient and understanding when things don't go as smoothly as we'd like.
+
 ### Class Design
 
 Given the uncertainty about the cyclical nature of the covid-19 pandemic, it is not clear at the time we are designing this course, what will be the exact teaching conditions of the upcoming academic year. We may be switching between face-to-face class time and online learning, so we have tried as best we could to make lectures, assignments and learning happen in either situation. 
