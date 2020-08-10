@@ -1,8 +1,25 @@
 # Textbooks
 
-Given the uncertainty about how much campus will be open this fall, we have not ordered a textbook to the campus bookstore for students to purchase. Instead, we have stuck with textbooks from a Canadian publisher \(University of Toronto Press\), which means that you can easily get books delivered directly to where you are \(or download ebook versions for slightly less\) without paying customs duties...
+I am trying something new this year for our textbooks. Instead of having the bookstore order physical books to campus \(which I am not sure you will near\), we will instead use digital textbooks which we will read and annotate together via [Perusall](https://app.perusall.com/).  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year. You have other options to get textbooks \(listed below\) but you will not be able to participate in the social annotation which is a key part of your work this year.  
+
+### Logging-in to Perusall
+
+To login to Perusal for our course, 
+
+1. Navigate to [https://app.perusall.com/](https://app.perusall.com/)
+2. Click on the "Enroll in Course" button
+3. Enter the code: SAURETTE-Y4NNP
+4. You will be able to see our two textbooks under the "Library Tab". 
+
+![The course page for HIST2000 on Perusall](../.gitbook/assets/screen-shot-2020-08-10-at-1.05.34-pm.png)
+
+5. Click on the "Open" button underneath either of the textbook descriptions on the rightside of the page and it will take you to an option to purchase the textbook online \(with a credit care or code\). 
+
+![The expensive business of buying textbooks! Sorry for the cost, but it should pay off!](../.gitbook/assets/screen-shot-2020-08-10-at-1.05.48-pm.png)
 
 ### Our textbooks: 
+
+We will be using two textbooks written by esteemed medievalist Barbara Rosenwein:
 
 Barbara Rosenwein, [_A Short History of the Middle Ages_](https://utorontopress.com/ca/a-short-history-of-the-middle-ages-fifth-edition-2)_._ 5th edition. Toronto: University of Toronto Press, 2018. ISBN 9781442636224
 

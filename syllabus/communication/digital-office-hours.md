@@ -12,3 +12,7 @@ Just as you click to join class each week, you'll click to join the office hours
 
 [There is a sign up sheet for each week here](https://docs.google.com/spreadsheets/d/153_Rzt-yaPZOm7jPI7JaWtQD6rwccmskbzYvkkFttCM/edit?usp=sharing). 
 
+### TA Office Hours
+
+TBA
+
