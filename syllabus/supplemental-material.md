@@ -1,6 +1,6 @@
 # Supplemental Material
 
-Given the online nature of the course, I want to provide students with additional resources that they can use \(optional!\) to help their learning, round out 
+Given the online nature of the course, I want to provide students with additional resources that they can use \(optional!\) to help their learning and round out the material presented to you. I'll add stuff here, or maybe on Perusall?
 
 
 
