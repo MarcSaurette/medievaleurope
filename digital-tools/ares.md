@@ -8,7 +8,7 @@ ARES is the place where any readings \(except for textbooks\) will be posted. Yo
 
 ### VPN
 
-VPN stands for Virtual Private Network – Carleton’s secure way of effectively “wrapping” your off-campus network connection in a Carleton blanket, so to speak. It encrypts \(protects\) all traffic and then routes it through Carleton before sending it back to you. By joining the Carleton VPN, you will be able to search the library, see online resources, or seamlessly use, for example, [scholar.google.com](https://scholar.google.com) much easier and save time.
+VPN stands for Virtual Private Network – Carleton’s secure way of effectively “wrapping” your off-campus network connection in a Carleton blanket, so to speak. It encrypts \(protects\) all traffic and then routes it through Carleton before sending it back to you. By joining the Carleton VPN, you will be able to search the library, see online resources, or seamlessly use, for example, [scholar.google.com](https://scholar.google.com) as if you were on campus - which usually makes it much easier and quicker to do research.
 
 Carleton's ITS has [different instructions](https://carleton.ca/its/help-centre/cat/vpn/) on how to install the university VPN on your particular operating system, including both computers and mobile devices. 
 
