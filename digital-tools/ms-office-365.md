@@ -6,7 +6,7 @@ Office 365 is Microsoft's subscription-based enterprise tools package. You'll fi
 You may already have Office 365 installed on your computer using a non-Carleton ID. You will need to make sure that you are signed into Office with your CMAIL account in order to take advantage of its integration with Microsoft Teams which we will be using to communicate by text or videoconferencing. 
 {% endhint %}
 
-For our class, we are going to use Microsoft [Teams](teams/), so be sure to download, install and test it out before class starts. 
+For our class, we are going to use Microsoft [Teams](teams/), so be sure to download it also, install it and test it out before class starts. 
 
 ### How to Install MS Office 365 for free from Carleton
 
