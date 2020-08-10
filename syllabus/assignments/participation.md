@@ -7,10 +7,10 @@ Participation is very important for this class since one of its main learning ob
 
 ### Be Prepared
 
-The most important part of participation is being prepared. You might be willing to contribute and be able to speak persuasively, but this does not contribute if you have not read and thought about the materials assigned for each class. 
+The most important part of participation is being prepared. You might be willing to contribute and be able to speak persuasively, but this does not contribute if you have not read and thought about the materials assigned for each class. You are asked to make annotations on the readings of the textbook each week. This will be an important part of your participation. 
 
 {% hint style="info" %}
-We are going to experiment with the QQTP method for class.  When you are reading the textbook on Perusall in preparation for class, you are able to highlight key texts, pose questions and make comments in the margins of the textbooks. 
+We are going to experiment with the QQTP method for class.  When you are reading the textbook on Perusall in preparation for class, you are asked to highlight key texts, pose questions and make comments in the margins of the textbooks. 
 
 **a Question**: Write a discussion question based on any one of the readings assigned. As you read assigned materials, note where questions come to mind about the ideas, timeline, methods or conclusions. This can be a simple, "What is X the author is talking about" or a thoughtful question that invites analysis, synthesis, or evaluation of the material, or makes connections between the readings/ previous discussion.
 
