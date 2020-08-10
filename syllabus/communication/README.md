@@ -20,7 +20,7 @@ Information about the process to request an extension/accommodation for reasons 
 2. Our "[Medieval Europe](https://teams.microsoft.com/l/team/19%3a0cd0f4caf3a340a0a69ca0ebdd53ca0d%40thread.tacv2/conversations?groupId=dc372eea-704e-45f0-9975-d9c7bc5c45c8&tenantId=6ad91895-de06-485e-bc51-fce126cc8530)" group on MS Teams will provide a dynamic workspace for class announcements, discussions, as well as where our video conferences will be run. It will be a hub with links to the digital tools and readings we will be using in the course.  Note: you must be logged in to your Carleton cmail account to access [Teams](../../digital-tools/teams/). 
 
 {% hint style="info" %}
-·Since we will often announce and reiterate a variety of important logistical information live in classes \(not all of which will be necessarily announced elsewhere\), please attend class consistently, and check with colleagues about whether you missed any logistical information if you were not able to attend a class.
+·Since we will often announce and reiterate a variety of important logistical information live in class \(not all of which will be necessarily announced elsewhere\), please attend class consistently, and check with colleagues about whether you missed any logistical information if you were not able to attend a class.
 {% endhint %}
 
 ### **Live Contact**
