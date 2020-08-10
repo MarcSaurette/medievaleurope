@@ -6,7 +6,7 @@ Our purpose \(as the professors\) is to act as your contact person, academic gui
 
 You can get in contact with us:
 
-| Marc Saurette | Instructor No. 2 |
+| Marc Saurette | Sarah Keeshan |
 | :--- | :--- |
 | email: marc.saurette@carleton.ca | TBA |
 | search for "Marc Saurette" via the Teams app | TBA |

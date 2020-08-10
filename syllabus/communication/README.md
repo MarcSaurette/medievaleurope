@@ -4,6 +4,10 @@ Communicating with one another is the key to a successful online class.
 
 Given the distance-learning component of this course, we will all need to be pro-active and intentional with our communications and interactions. This is particularly important not only since the course will be distance-learning, but also because we will have to use multiple different software platforms to interact.
 
+{% hint style="info" %}
+If you want to communicate with one another outside of class, I have created a Slack channel which you can join. I will not read messages there, I won't monitor it and am not responsible for any content that might be shared there. I have created it purely to allow for you have a private venue. Follow [https://join.slack.com/t/hist2000me/signup](https://join.slack.com/t/hist2000me/signup)
+{% endhint %}
+
 Although it probably will feel a bit overstructured, please read the following carefully. Knowing all of the avenues and opportunities for contact and communication – and maximizing the opportunities you have – will be crucial to making sure you have the best learning experience possible in this course.
 
 {% hint style="info" %}
