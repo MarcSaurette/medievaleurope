@@ -12,6 +12,8 @@ Social annotation takes the usually-solitary act of reading and allows students 
 
 Social annotation is an age-old process that is very medieval. What is different in speed. It would take centuries for texts to accrue a surrounding commentary, but we can do it online in real time in a very short span. Commentary \(medieval or modern\) can link to other media, can define key terms, provide further details or contradict the main text. We are, in essence, crowdsourcing \(you being the crowd\) the readings to allow you to deepen and expand your knowledge. 
 
+Perusall allows us to organize all our readings in one place so that we can annotate them together. 
+
 ![Cologny, Fondation Martin Bodmer, Cod. Bodmer 31, f. 2r](../../.gitbook/assets/e-codices_fmb-cb-0031_002r_medium.jpg)
 
 The above image is of a twelfth-century commentary \(or **Glossa**\) on the Biblical _Song of Songs_ \(aka, _Canticles_, _Cantica Canticorum_\). The text in dark brown is the biblical text. The much more copious lighter brown ink is the commentary, definitions and explanations of the meaning. What does this say about how we interact with texts even now?

@@ -2,14 +2,14 @@
 
 I am trying something new this year for our textbooks. Instead of having the bookstore order physical books to campus \(which I am not sure if you are going to be nearby\), we will instead use digital textbooks which we will read and annotate together via [Perusall](https://app.perusall.com/).  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year. You have other options to get textbooks \(listed below\) but you will not be able to participate in the social annotation which is a key part of your work this year.  
 
-### Logging-in to Perusall
+### Login to Perusall to buy textbooks
 
 To login to Perusal for our course, 
 
 1. Navigate to [https://app.perusall.com/](https://app.perusall.com/)
 2. Click on the "Enroll in Course" button
 3. Enter the code: SAURETTE-Y4NNP
-4. You will be able to see our two textbooks under the "Library Tab". 
+4. You will be able to see our two textbooks under the "Library Tab". This image of the Libary tab is pristine at the moment since I have not yet posted any other readings/ images/ websites. 
 
 ![The course page for HIST2000 on Perusall](../../.gitbook/assets/screen-shot-2020-08-10-at-1.05.34-pm.png)
 
