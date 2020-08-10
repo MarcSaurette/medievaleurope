@@ -9,11 +9,12 @@ To login to Perusal for our course,
 1. Navigate to [https://app.perusall.com/](https://app.perusall.com/)
 2. Click on the "Enroll in Course" button
 3. Enter the code: SAURETTE-Y4NNP
-4. You will be able to see our two textbooks under the "Library Tab". This image of the Libary tab is pristine at the moment since I have not yet posted any other readings/ images/ websites. 
+4. Click on the "Get Started" tab to see some suggestions about how to read with Perusall. 
+5. You will be able to see our two textbooks under the "Library Tab". This image of the Libary tab is pristine at the moment since I have not yet posted any other readings/ images/ websites. 
 
 ![The course page for HIST2000 on Perusall](../../.gitbook/assets/screen-shot-2020-08-10-at-1.05.34-pm.png)
 
-5. Click on the "Open" button underneath either of the textbook descriptions on the rightside of the page and it will take you to an option to purchase the textbook online \(with a credit care or code\). 
+5. Click on the "Open" button underneath either of the textbook descriptions on the rightside of the page and it will take you to an option to purchase the textbook online \(with a credit care or code\).
 
 ![The expensive business of buying textbooks! Sorry for the cost, but it should pay off!](../../.gitbook/assets/screen-shot-2020-08-10-at-1.05.48-pm.png)
 
