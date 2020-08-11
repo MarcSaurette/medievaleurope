@@ -25,21 +25,17 @@ This week we will not have any dedicated synchronous online time in order to giv
 
 ### Read/Watch/Listen
 
-What do students need to read this week?
-
-Add voice recording here?
-
-
+Once you have logged-in to [Perusall](../syllabus/textbooks/#login-to-perusall-to-buy-textbooks), you will find a pdf copy of the syllabus \(a truncated and simplifed version of this Gitbook course guide\). Please read it, and annotate it to emphasize key ideas, or ask questions of things which don't make sense. 
 
 ### Practice
 
-This week, you are asked to 
-
-{% page-ref page="../practical-exercises/week-1-icebreaker.md" %}
+This week, you are asked to complete a few tasks, as explained on the following pages: 
 
 {% page-ref page="../digital-tools/ms-office-365.md" %}
 
 {% page-ref page="../digital-tools/teams/" %}
+
+{% page-ref page="../practical-exercises/week-1-icebreaker.md" %}
 
 {% page-ref page="../syllabus/textbooks/" %}
 
@@ -47,17 +43,21 @@ This week, you are asked to
 
 What questions should students be discussing with each other on the discussion board for this course?
 
+* We won't have any specific questions up for discussion. Our main online interaction this week will be writing up a brief introduction and saying hello to some of your classmates. 
+
 ### **Do**
 
 What quizzes \(if any\) or other activities should students complete this week to evaluate their own progress? How will they know they are “on track”?
 
+* In the pdf syllabus on Perusall I have asked you to complete one last task. Do it to show me that you have read the syllabus carefully \(or your fellow students have helped you located it\) and get bonus marks!
+
 ### **Assess** 
 
-There is no work to be handed in for assessment, other than the Icebreaker...
+There is no work to be handed in for assessment this week. Just show you are able to use Teams and Perusall to demonstrate your successful participation. 
 
 ### Going Further
 
-If students want to get a leg up on things, I would recommend that you make your way through the pages in the [Digital Tools](../digital-tools/) section of this guide and start signing up for accounts, downloading software or getting familiar with the tools we will use later in the year. 
+If students want to get a leg up on things, I would recommend that you make your way through all the pages in the [Digital Tools](../digital-tools/) section of this guide and start signing up for accounts, downloading software or getting familiar with the tools we will use later in the year. 
 
 ### **Help**
 
