@@ -5,12 +5,14 @@
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 
 1. Learn about periodization, the temporal limits of the Middle Ages and why it exists as a historical period worthy of study
-2. Use hypothes.is to annotate primary source
-3. Learn how to read primary sources
+2. Use Perusal to annotate a primary source
+3. Learn what a primary source is and its limitations of meaning
 
 ### Overview:
 
-Provide a short rationale for this week’s work suggesting its purpose in terms of the program of studies. \(Why we're doing this...\)
+This week will be exploring the idea of Periodization, asking how 
+
+1. Spend some time fielding any technical questions
 
 ### **Online Time**
 
