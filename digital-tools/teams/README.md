@@ -7,7 +7,7 @@ _**Teams**_ is one of the many "enterprise tools"  you will be using \(i.e. digi
 ### Installing Microsoft Teams on a Desktop
 
 {% hint style="danger" %}
-You can also install no software at all and just use Teams through a browser – this is not a great option since you have to sign in again and again. Generally you do less with more hassle. Also, if you are a Mac/ iPhone user, Teams does not work with Safari \(e.g. at all, just blocks it...\). 
+You can also install no software at all and just use Teams through a browser – I really don't recommend this. It is not a great option since you have to sign in again and again and again forever. Generally the platform via browsers allows you you do less with more hassle. Also, if you are a Mac/ iPhone user, Teams does not work with Safari \(e.g. at all, just blocks it...\). 
 {% endhint %}
 
 1. So, you've likely already installed MS Office 365. You might think you don't need to install Teams separately but you do. Getting your Office licence working doesn't mean it works for Teams. Sigh, microsoft. 
