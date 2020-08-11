@@ -2,9 +2,7 @@
 
 ### Online Reserve Desk
 
-ARES is Carleton University's electronic reserve desk. You can login in directly to [ARES](https://reserves.library.carleton.ca/ares/) through the library website, or through the link to the course readings in cuLearn. 
-
-ARES is the place where any readings \(except for textbooks\) will be posted. You will need to login with your [MyCarletonOne password](https://carleton.ca/mycarletonone/) before being able to access the readings.
+ARES is Carleton University's electronic reserve desk. You can login in directly to [ARES](https://reserves.library.carleton.ca/ares/) through the library website, or through the link to the course readings in cuLearn. ARES is the place where \(non textbook\) readings are posted in most classes, but we are using Perusall instead.
 
 ### VPN
 
