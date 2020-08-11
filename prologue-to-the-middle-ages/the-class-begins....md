@@ -17,7 +17,7 @@ The first week of class provides a transition back to school. This year the tran
 3. Login to [Perusall](../syllabus/textbooks/#login-to-perusall-to-buy-textbooks) and purchase the textbooks. 
 4. Familiarize yourself with some of the [Digital tools ](../digital-tools/)we'll be using this year.
 5. Post your "[Name Card](../practical-exercises/week-1-icebreaker.md)" to the week one channel on Teams.
-6. Complete this **background survey** to let me know more about you. 
+6. Complete this [background survey](../practical-exercises/background-survey.md) to let me know more about you. 
 
 ### **Online Time**
 
@@ -39,11 +39,13 @@ This week, you are asked to complete a few tasks, as explained on the following 
 
 {% page-ref page="../syllabus/textbooks/" %}
 
+{% page-ref page="../practical-exercises/background-survey.md" %}
+
 ### **Discuss**
 
 What questions should students be discussing with each other on the discussion board for this course?
 
-* We won't have any specific questions up for discussion. Our main online interaction this week will be writing up a brief introduction and saying hello to some of your classmates. 
+* We won't have any specific questions up for discussion ****this week. Our main online interaction will be writing up a brief introduction and saying hello to some of your classmates. 
 
 ### **Do**
 
