@@ -27,6 +27,7 @@
   * [MS Office 365](digital-tools/ms-office-365.md)
   * [MS Teams](digital-tools/teams/README.md)
     * [\(really\) Short Guide to MS Teams](digital-tools/teams/really-short-guide-to-ms-teams.md)
+    * [Streaming Lectures](digital-tools/teams/streaming-lectures.md)
   * [Virtual MacOdrum Library](digital-tools/ares.md)
   * [Poll Everywhere](digital-tools/poll-everywhere.md)
   * [Zotero](digital-tools/zotero.md)
