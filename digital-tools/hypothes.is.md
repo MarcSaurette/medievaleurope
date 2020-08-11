@@ -1,5 +1,9 @@
 # Hypothes.is
 
+{% hint style="danger" %}
+Actually, we won't be using hypothes.is in class unless Perusall goes horribly horribly wrong. But I'm keeping this here just in case...
+{% endhint %}
+
 [Hypothes.is ](https://hypothes.is)is a tool which allows you to annotate web content for your personal research use or, in our case, to allow us to collaborate as a group. It is, in essence, a digital version of you writing notes in the margins of a book/ photocopy. If you open a pdf in your browser, for example, you can annotate it and all your comments are saved in a central location. 
 
 Annotation is an intellectual practice as old as reading and writing. Take a look at Jason Jones' "[There are no new directions in annotations](https://epress.trincoll.edu/webwriting/chapter/jones/)" to understand this process. We see medieval manuscripts filled with annotations and it became such an accepted part of reading Christian, Jewish and Islamic holy books that whole traditions of glosses \(or authoritative commentary on sacred writing\) developed. Writing and sharing annotations became a way that much authoritative decisions about theology have been made. 
