@@ -6,13 +6,13 @@ For this class to work, especially in an online environment, everyone needs to g
 
 | Assignment | Date due |
 | :--- | :--- |
-| cuPortfolio profile | Friday of week 2 |
-| Critical reflection no. 1 | Friday of week 4 |
-| Critical reflection no. 2 | Friday of week 12 |
-| Draft Document Analysis | Friday of week 7 |
-| Peer Feedback | Friday of week 9 |
-| Rewritten Document Analysis | Friday of week 11 |
-| Process Letter | Friday of week 13 |
+| cuPortfolio profile | Friday of week 2 \(September 25\) |
+| Critical reflection no. 1 | Friday of week 4 \(October 9\) |
+| Critical reflection no. 2 | Friday of week 12 \(December 4\) |
+| Draft Document Analysis | Friday of week 7 \(October 30\) |
+| Peer Feedback | Friday of week 9 \(November 13\) |
+| Rewritten Document Analysis | Friday of week 11 \(November 27\) |
+| Process Letter | Friday of week 13 \(December 11\) |
 
 \*The "end of the week" is understood to be by 5pm on Fridays. 
 
