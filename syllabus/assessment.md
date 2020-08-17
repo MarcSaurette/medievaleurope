@@ -9,7 +9,7 @@ Grades weren't widely used in universities and public education until the 1940s.
 And just becuase I don't care about grades doesn't mean that I don't care about how you are doing. By us being online, I will have more hard data on the work you are all doing than for any other class I have taught before. Thanks to our digital interfaces, I can't help but notice whether you are "in class" or not or whether you have done the reading on Perusall or not. I really care about you doing the work and gaining the learning that happens as a result. 
 
 {% hint style="info" %}
-If you want to read a bit more about the idea of ungrading and how it can work in classrooms see the [work by Jesse Stommel](https://www.jessestommel.com/how-to-ungrade/).
+If you want to read a bit more about the idea of ungrading and how it can work in classrooms see the [work by Jesse Stommel](https://www.jessestommel.com/how-to-ungrade/) or take a look at this post by [Jessica Zeller](https://www.jessicazeller.net/blog/pedagogy-for-end-times). 
 {% endhint %}
 
 ### Term I 
