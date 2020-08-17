@@ -23,7 +23,6 @@
     * [Process Letter](syllabus/assignments/process-letter.md)
   * [Assessment](syllabus/assessment.md)
   * [Deadlines](syllabus/deadlines.md)
-  * [Supplemental Material](syllabus/supplemental-material.md)
 * [Digital Tools](digital-tools/README.md)
   * [MS Office 365](digital-tools/ms-office-365.md)
   * [MS Teams](digital-tools/teams/README.md)

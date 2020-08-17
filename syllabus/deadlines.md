@@ -8,11 +8,10 @@ For this class to work, especially in an online environment, everyone needs to g
 | :--- | :--- |
 | cuPortfolio profile | Friday of week 2 |
 | Critical reflection no. 1 | Friday of week 4 |
-| Critical reflection no. 2 | Friday of week |
-| Critical reflection no. 3 | Friday of week |
-| Draft Document Analysis | Friday of week |
-| Peer Feedback | Friday of week |
-| Rewritten Document Analysis | Friday of week |
+| Critical reflection no. 2 | Friday of week 12 |
+| Draft Document Analysis | Friday of week 7 |
+| Peer Feedback | Friday of week 9 |
+| Rewritten Document Analysis | Friday of week 11 |
 | Process Letter | Friday of week 13 |
 
 \*The "end of the week" is understood to be by 5pm on Fridays. 

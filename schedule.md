@@ -9,7 +9,7 @@ I'll post an overview schedule for the Fall term here. Obviously, this is still 
 * No online meet up this week. 
 * Take a look at the course guide \(i.e. this website\).
 * Download and install Microsoft [Teams](digital-tools/teams/). 
-* Read through the [Syllabus](syllabus/) \(i.e. the front page and its subpages, from [Your Professors](syllabus/your-professor/) to  [Supplemental Material](syllabus/supplemental-material.md)\)
+* Read through the [Syllabus](syllabus/) \(i.e. the front page and its subpages, from [Your Professors](syllabus/your-professor/) to  [Supplemental Material]()\)
 * * to the Medieval Europe Team
 
 ### Week 2. Module 1.1 [When are the Middle Ages](module-1.-what-is-the-middle-ages/when-are-the-middle-ages.md)
