@@ -6,7 +6,7 @@ I will post a form on Teams which you can fill in. The first question there will
 
 ### What do I need to include?
 
-The goal is for you to make an argument for the overall grade you will propose for yourself. I provide here guiding questions that should be taken into account to provide evidence/ justification for your suggested grade. 
+The goal is for you to make an argument for the overall grade you will propose for yourself. I provide here guiding questions that should be taken into account to provide evidence/ justification for your suggested grade. The form posted on Teams will ask you similar but not identical questions to those below. 
 
 1. Outside of class time, how much time did you spend on the class each week?
 2. Describe how you spent this time and offer, if possible, a breakdown of time spent on different activities \(i.e. socializing/texting, plotting, researching, reading, writing\).
