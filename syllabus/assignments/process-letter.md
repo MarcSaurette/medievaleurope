@@ -2,6 +2,8 @@
 
 At the end of first term, students will write process letters, describing their learning and how their work evolved over the term. It should be a reflection on your work, including links to examples of work you find most representative \(even work that you don't otherwise turn in\).
 
+I will post a form on Teams which you can fill in. The first question there will ask if you have submitted your process letter in an alternative form. Everyone should at least fill out that question and you can post a file or link to cuLearn if you prefer.
+
 ### What do I need to include?
 
 The goal is for you to make an argument for the overall grade you will propose for yourself. I provide here guiding questions that should be taken into account to provide evidence/ justification for your suggested grade. 
