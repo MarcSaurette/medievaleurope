@@ -47,7 +47,7 @@ This week, you are asked to complete a few tasks, as explained on the following 
 
 What questions should students be discussing with each other on the discussion board for this course?
 
-* We won't have any specific questions up for discussion ****this week. Our main online interaction will be writing up a brief introduction and saying hello to some of your classmates. 
+* We won't have any specific questions up for discussion ****this week. Our main online interaction will be writing up a brief introduction to yourself \(the "icebreaker'\) and saying hello to some of your classmates. 
 
 ### **Do**
 

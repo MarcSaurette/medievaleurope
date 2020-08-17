@@ -2,17 +2,15 @@
 
 ### Goals for this week
 
-This week represents the beginning of the synchronous learning portion of the 
-
-
-
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 
-1. Learn about periodization, the temporal limits of the Middle Ages and why it exists as a historical period worthy of study
-2. Use Perusal to annotate a primary source
-3. Learn what a primary source is and its limitations of meaning
+1. Learn about how medievalists think about the periodization \(i.e. the temporal limits\) of the Middle Ages and why it is considered a historical period worthy \(or not\) of study.
+2. Learn what a primary source is and the problems of interpretation 
+3. Learn to use Perusall to annotate a primary source 
 
 ### Overview:
+
+This week marks the beginning of the synchronous learning portion of the class. We will come together online for an introduction to the Middle Ages and to think about how it is defined chronologically. 
 
 This week will be exploring the idea of Periodization, asking how 
 
@@ -20,7 +18,17 @@ This week will be exploring the idea of Periodization, asking how
 
 ### **Online Time**
 
-What will you focus on during your FaceTime with the students?
+{% hint style="info" %}
+Students need to have installed and successfully logged into Teams by Monday, September 21st, to ensure that they receive any updates to our schedule. 
+{% endhint %}
+
+We will be meeting online from 11h30-1h00, September 22, 2020.  [Join the Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3a0cd0f4caf3a340a0a69ca0ebdd53ca0d%40thread.tacv2/1591642462316?context=%7b%22Tid%22%3a%226ad91895-de06-485e-bc51-fce126cc8530%22%2c%22Oid%22%3a%22b8e11e76-90c8-4bf2-a5e3-cca184e3c823%22%7d). The Teaching Assistant and I will be online about 15 minutes before class if you want to discuss anything with us.  
+
+* the professor will introduce and talk about how to define the Middle Ages as a chronological period
+* students will divided into small groups to meet one another and to discuss assigned reading material.
+* we'll end this synchronous session with an AMA \(Ask-me-anything\) session for the final 20 mins.
+
+From 1h00 until 2h30 I will demonstate on Teams how to use Perusall to annotate a primary source in the course reader. You can follow along, ask questions, and annotate the text alongside your classmates in real time. You are not required to be online synchronously for this  but this will be recorded and available for watching at a later time. 
 
 ### Read/Watch/Listen
 
@@ -28,7 +36,17 @@ What do students need to read this week?
 
 ### Practice
 
-Cluny Foundation Charter - Annotation Exercise
+Read the following pages as preparation for the annotation exercise on Perusall.
+
+{% page-ref page="../exercises/anatomy-of-a-primary-source/" %}
+
+{% page-ref page="../exercises/anatomy-of-a-primary-source/sources-schematic.md" %}
+
+{% page-ref page="../exercises/anatomy-of-a-primary-source/the-problem-of-primary-sources.md" %}
+
+{% page-ref page="../exercises/anatomy-of-a-primary-source/reading-clunys-foundation-charter.md" %}
+
+
 
 ### **Discuss**
 
