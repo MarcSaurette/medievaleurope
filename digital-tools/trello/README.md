@@ -23,7 +23,22 @@ I hope that in our online class we can use the digital kanban Trello to reap the
 
 ### How to Sign up for Trello
 
-In Trello, I have formed a Team entitled, "Medieval Europe" which I will ask you to join. 
+In Trello, I have formed a Team entitled, "Medieval Europe" which I will ask you to join. Via Teams, I will send you a link to join the team which will allow you to copy a pre-made Trello board to allow you to keep track of your assignments.
 
+1. Click on this link to sign up for a Trello account: [https://trello.com/marc09832755/recommend](https://trello.com/marc09832755/recommend)
+2. Trello will ask you to sign in and complete a mini-tutorial, which will look something like this:
 
+![Marc recommend it! Fill in your email in the &quot;Email box&quot;](../../.gitbook/assets/screen-shot-2020-08-17-at-10.06.30-am.png)
+
+![Use any email you want, but maybe use some recognizable version of your name.](../../.gitbook/assets/screen-shot-2020-08-17-at-10.06.59-am.png)
+
+![Fill out the info or sign in with other providers to minimize duplicating passwords...](../../.gitbook/assets/screen-shot-2020-08-17-at-10.07.28-am.png)
+
+![You will be asked to start a board. \(necessary to end the tutorial\) I&apos;ll get you to copy a pre-made one later.](../../.gitbook/assets/screen-shot-2020-08-17-at-10.08.33-am.png)
+
+![You&apos;ve made your first board. Wow, how ugly!](../../.gitbook/assets/screen-shot-2020-08-17-at-10.09.57-am.png)
+
+![Click on the link to join our Trello board. I&apos;ll get you to copy it and use it if you want. ](../../.gitbook/assets/screen-shot-2020-08-17-at-10.11.11-am.png)
+
+In the next page, I explain how to use kanban style boards to manage your time/ work. And in the page after that, I provide an introduction how to copy and use the "Medieval Europe Assignments" treloo board. 
 

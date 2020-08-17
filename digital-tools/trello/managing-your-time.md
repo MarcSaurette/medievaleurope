@@ -32,7 +32,7 @@ Spend 30 mins once a week trying to write down everything that you need to get d
 
 ### Steps to write an assignment
 
-A paper which asks you to analyze a primary source has a lot of steps \(many of which are outlined [elsewhere](../../practical-exercises/anatomy-of-a-primary-source/) on the course site\). The major steps are:
+A paper which asks you to analyze a primary source has a lot of steps \(many of which are outlined [elsewhere](../../exercises/anatomy-of-a-primary-source/) on the course site\). The major steps are:
 
 1. find the syllabus and read about the assignment again
 2. find your course reader

@@ -61,7 +61,7 @@ The rewritten document analysis should incorporate the feedback offered by your 
 
 In the time between submitting your first draft and the second, you should do more reading about your topic, so that when it comes time to review your paper, you will have more knowledge about the context of the document and perhaps about how historians have understood its significance. Your reading might in fact change how you view the document, and thus might require you alter your interepretation of the evidence it offers. 
 
-The goal of writing a second "final" draft is to mirror "Peer Review" in the academic [research process](../../practical-exercises/anatomy-of-an-academic-article/the-research-process.md). By being questions and asked to think more about a study \(understood to be complete\), you are pushed to improve and buttress your arguments. At the second year, you are still becoming familiar with how to come up with theses and support your arguments with evidence, so peer review gives you an opportunity to see how your writing is understood by others. 
+The goal of writing a second "final" draft is to mirror "Peer Review" in the academic [research process](../../exercises/anatomy-of-an-academic-article/the-research-process.md). By being questions and asked to think more about a study \(understood to be complete\), you are pushed to improve and buttress your arguments. At the second year, you are still becoming familiar with how to come up with theses and support your arguments with evidence, so peer review gives you an opportunity to see how your writing is understood by others. 
 
 ### Evaluation for the Rewritten Document Analysis
 

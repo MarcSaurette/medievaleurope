@@ -16,8 +16,8 @@ The first week of class provides a transition back to school. This year the tran
 2. Use [MS Teams](../digital-tools/teams/) \(activate, install and login to the class group\). 
 3. Login to [Perusall](../syllabus/textbooks/#login-to-perusall-to-buy-textbooks) and purchase the textbooks. 
 4. Familiarize yourself with some of the [Digital tools ](../digital-tools/)we'll be using this year.
-5. Post your "[Name Card](../practical-exercises/week-1-icebreaker.md)" to the week one channel on Teams.
-6. Complete this [background survey](../practical-exercises/background-survey.md) to let me know more about you. 
+5. Post your "[Name Card](../exercises/week-1-icebreaker.md)" to the week one channel on Teams.
+6. Complete this [background survey](../exercises/background-survey.md) to let me know more about you. 
 
 ### **Online Time**
 
@@ -35,11 +35,11 @@ This week, you are asked to complete a few tasks, as explained on the following 
 
 {% page-ref page="../digital-tools/teams/" %}
 
-{% page-ref page="../practical-exercises/week-1-icebreaker.md" %}
+{% page-ref page="../exercises/week-1-icebreaker.md" %}
 
 {% page-ref page="../syllabus/textbooks/" %}
 
-{% page-ref page="../practical-exercises/background-survey.md" %}
+{% page-ref page="../exercises/background-survey.md" %}
 
 ### **Discuss**
 
