@@ -16,7 +16,7 @@ If you want to read a bit more about the idea of ungrading and how it can work i
 
 While I don't really care about grades, other professors and, well, the university do. So it is perhaps ultimately necessary for you to get one. I want all of you to succeed in this course and it would make me very happy to be able to give all of you an A.  I just need you to give me a good reason to do so.  
 
-The first term of the course offers you space to experiment. For the most part, I will read and comment on your written work, but I won't give it a grade. Instead, you will be given advice on how to improve and better your work. You will regularly rate yourself for participation and at the end of term you will produce a "process letter" which makes an argument for what grade you should receive. Your process letter must take into account the single grade for first term that I will assign, for a polished piece of writing – drafts of which have been commented on by me and by your peers beforehand.
+The first term of the course offers you space to experiment. For the most part, I will read and comment on your written work, and give you feed back in the private "Chat" function in Teams, but I won't give it a grade. Instead, you will be given advice on how to improve and better your work. You will regularly rate yourself for participation and at the end of term you will produce a "process letter" which makes an argument for what grade you should receive. Your process letter must take into account the single grade for first term that I will assign, for a polished piece of writing – drafts of which have been commented on by me and by your peers beforehand.
 
 ### Term II 
 
