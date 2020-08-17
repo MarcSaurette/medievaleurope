@@ -16,7 +16,7 @@ The first week of class provides a transition back to school. This year the tran
 2. Use [MS Teams](../digital-tools/teams/) \(activate, install and login to the class group\). 
 3. Login to [Perusall](../syllabus/textbooks/#login-to-perusall-to-buy-textbooks) and purchase the textbooks. 
 4. Familiarize yourself with some of the [Digital tools ](../digital-tools/)we'll be using this year.
-5. Post your "[Name Card](../exercises/week-1-icebreaker.md)" to the week one channel on Teams.
+5. [Introduce yourself and say hello](../exercises/week-1-icebreaker.md) to your classmates in the week one channel on Teams.
 6. Complete this [background survey](../exercises/background-survey.md) to let me know more about you. 
 
 ### **Online Time**
