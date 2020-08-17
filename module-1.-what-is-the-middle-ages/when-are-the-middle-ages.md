@@ -2,6 +2,10 @@
 
 ### Goals for this week
 
+This week represents the beginning of the synchronous learning portion of the 
+
+
+
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 
 1. Learn about periodization, the temporal limits of the Middle Ages and why it exists as a historical period worthy of study

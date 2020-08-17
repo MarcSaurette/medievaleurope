@@ -23,6 +23,8 @@ The first week of class provides a transition back to school. This year the tran
 
 This week we will not have any dedicated synchronous online time in order to give everyone time to download and install Teams, which we will be using to meet up online for the class. You need ensure that you have Teams installed on your computer and working so that you can join our class in week 2's online time.
 
+During class time in the first week \(11h30-2h30, Tuesday September 15, 2020\), I will be online, checking email and on Teams. I'll be available to help \(as much as I can\) if you have any connection issues or any questions that arise from your reading the syllabus. 
+
 ### Read/Watch/Listen
 
 Once you have logged-in to [Perusall](../syllabus/textbooks/#login-to-perusall-to-buy-textbooks), you will find a pdf copy of the syllabus \(a truncated and simplifed version of this Gitbook course guide\). Please read it, and annotate it to emphasize key ideas, or ask questions of things which don't make sense. 
