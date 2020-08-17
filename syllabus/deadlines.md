@@ -13,7 +13,7 @@ For this class to work, especially in an online environment, everyone needs to g
 | Draft Document Analysis | Friday of week |
 | Peer Feedback | Friday of week |
 | Rewritten Document Analysis | Friday of week |
-| Process Letter | Friday of week |
+| Process Letter | Friday of week 13 |
 
 \*The "end of the week" is understood to be by 5pm on Fridays. 
 
