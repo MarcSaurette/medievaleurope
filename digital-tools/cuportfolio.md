@@ -7,14 +7,46 @@ Instruction and on-going support in using cuPortfolio will be provided by Dr. Sa
 ### Here is a rough guide to getting started with cuPortfolio:
 
 1. Sign in to [cuPortfolio](https://cuportfolio.carleton.ca).
-2. Click on one of the many tabs to see "My Groups" and click on "HIST 2000".
-3. On the Group page, locate collections and click on the collection "Saurette - HIST 2000 ...". Make sure the one you are clicking on is authored by me \(Marc Saurette\) not anyone else who copied the collection but forgot to rename it.
-4. Locate the copy button on the right of the page. Click it, then click that you want to copy the collection, NOT the page. I think you will be prompted to rename it. I'm not sure. Just make sure you rename it something like "Your Name - HIST 2000 Portfolio...".
-5. Press two more buttons, whose names I have forgotten at the bottom of the page \(something like "done"\).
-6. Find the tab on the upper menu "Shared by me". Click on it.
-7. Under the "Collections" locate your newly renamed collection. Click on the lock icon beside the name.
-8. You will be brought to a new page entitled, "Share\|Edit Access". Locate the header "Shared with". Under the header "Share with" there should be a button "Share with". Click on that and then scroll down to HIST 2000 ... Fall 2020. And then press "Save".
-9. Rejoice! You're done! Actually, now you should start working on your Profile.
+
+![Use your username \(firstnamelastname\) and password to login](../.gitbook/assets/screen-shot-2020-08-17-at-12.24.17-pm.png)
+
+2. Click on one of the many tabs to see "My Groups" and click on "HIST 2000 in the sidebar.
+
+![When you login it will look something like this. Might be different if on a phone.](../.gitbook/assets/screen-shot-2020-08-17-at-12.24.37-pm.png)
+
+3. When you enter the class "Group" it will look something like this:
+
+![](../.gitbook/assets/screen-shot-2020-08-17-at-12.19.55-pm.png)
+
+4. Scroll down the page and locate "Shared Collections". Find the Collection names "Your Name Here's Portfolio" and click on it.  Make sure the one you are clicking on is authored by me \(Marc Saurette\) not anyone else who copied the collection but forgot to rename it.
+
+![](../.gitbook/assets/screen-shot-2020-08-17-at-12.20.04-pm.png)
+
+5. When you open the collection, it will looks something like the following. Find the elipsis \(...\) on the upper right corner of the page and press it, then click on "Copy".
+
+![](../.gitbook/assets/screen-shot-2020-08-17-at-12.20.42-pm.png)
+
+6. You will be asked to copy page or collection. CHOOSE COLLECTION!
+
+![Superduper important to choose &quot;Collection&quot;.](../.gitbook/assets/screen-shot-2020-08-17-at-12.20.52-pm.png)
+
+7. You will be prompted to rename it. Make sure you rename it something like "Your Name's Portfolio...".
+
+![Please change the name...](../.gitbook/assets/screen-shot-2020-08-17-at-12.21.18-pm.png)
+
+8. You will be taken to the next page which will allow you to add pages to the collection. Don't do that at this point. Just scroll to the bottom of the page, confirm that there are the "Pages Already in the Collection" as in the following image and then press "Done".
+
+![You&apos;re almost done. ](../.gitbook/assets/screen-shot-2020-08-17-at-12.22.20-pm.png)
+
+9. You now need to share you collection with the group \(HIST2000 Medieval Europe\). When you complete copying the collection or if you come back and edit the collection later, you can change sharing by clicking on "Share" in the upper left corner of an open page. 
+
+![Click share!](../.gitbook/assets/screen-shot-2020-08-17-at-12.47.43-pm.png)
+
+10. Make sure the collection is shared with the whole class. Don't worry about "Advanced Share Options" just scroll to the bottom of the page, click on the "Share With" drop-down menu and find our class \(HIST2000 Medieval Europe\) and allow "Everyone in the Group" to view it. 
+
+![Press &quot;Save&quot; and you&apos;re done!](../.gitbook/assets/screen-shot-2020-08-17-at-12.47.53-pm.png)
+
+11. Rejoice! You're done! Actually, now you should start working on your Profile.
 
 {% hint style="info" %}
 There are detailed instructions on how to use cuPortfolio by Carleton's instructional media services/ Educational development centre [here](https://carleton.ca/cuportfoliosupport/help/).
@@ -24,6 +56,6 @@ The following link to their tutorials on:
 * [How to copy](https://carleton.ca/cuportfoliosupport/help/cu-videos/copy-a-collection-template/) a collection template. 
 * [How to share](https://carleton.ca/cuportfoliosupport/help/sharing/) a collection with the class. 
 
-Here is the collection you need to copy. Do not copy it as a group collection. 
+Do not copy it as a group collection. 
 {% endhint %}
 
