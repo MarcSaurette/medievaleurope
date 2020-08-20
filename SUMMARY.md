@@ -46,10 +46,10 @@
     * [The Problem of Primary Sources](exercises/anatomy-of-a-primary-source/the-problem-of-primary-sources.md)
     * [Reading Cluny's Foundation Charter](exercises/anatomy-of-a-primary-source/reading-clunys-foundation-charter.md)
     * [Charter Translation Exercise](exercises/anatomy-of-a-primary-source/charter-translation-exercise.md)
-  * [Keeping Track of Assignments with Trello](exercises/keeping-track-of-assignments-with-trello.md)
   * [Anatomy of an Academic Article](exercises/anatomy-of-an-academic-article/README.md)
     * [The Research Process](exercises/anatomy-of-an-academic-article/the-research-process.md)
     * [Understanding Research Articles](exercises/anatomy-of-an-academic-article/understanding-research-articles.md)
+  * [Keeping Track of Assignments with Trello](exercises/keeping-track-of-assignments-with-trello.md)
   * [Transcription Exercise](exercises/transcription-exercise.md)
 * [FAQ](faq.md)
 
