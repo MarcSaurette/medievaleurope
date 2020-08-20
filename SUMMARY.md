@@ -51,6 +51,7 @@
     * [The Research Process](exercises/anatomy-of-an-academic-article/the-research-process.md)
     * [Understanding Research Articles](exercises/anatomy-of-an-academic-article/understanding-research-articles.md)
 * [FAQ](faq.md)
+* [Transcription Exercise](transcription-exercise.md)
 
 ## Prologue to the Middle Ages
 

@@ -35,7 +35,7 @@ Draw a monastery activity: [https://lochinbrouillard.wordpress.com/2019/11/06/cl
 
 Transcription Exercise: follow along Ferrante's Latin text provided in the manuscript??? Catalogue description of ms is here: [https://ccfr.bnf.fr/portailccfr/ark:/06871/004D02A14154](https://ccfr.bnf.fr/portailccfr/ark:/06871/004D02A14154)
 
-Bibliography and a link to a B&W reproduction of the manuscript is available [here](https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2094). 
+Bibliography and a link to a B&W reproduction of the manuscript is available [here](https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2094). This viewer is somewhat antequated and only works on some browsers, so I have added a pdf version of the first few pages and the letter to Radegund on Persuall.  
 
 ### **Discuss**
 
