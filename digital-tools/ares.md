@@ -1,5 +1,7 @@
 # Virtual MacOdrum Library
 
+Normally MacOdrum would be the place to study, get books, maybe have a coffee. But this year MacOdrum will not be available in the same way. Currently \(as of August 24\), [MacOdrum has opened](https://library.carleton.ca/visit-building) to allow 50 students to use the main floor for individual \(not group\) study space. Books can be checked out via [curbsite pickup](https://library.carleton.ca/services/curbside-pick-and-mail-delivery-library-print-collection) \(limit of 10 items\).
+
 ### Online Reserve Desk
 
 ARES is Carleton University's electronic reserve desk. You can login in directly to [ARES](https://reserves.library.carleton.ca/ares/) through the library website, or through the link to the course readings in cuLearn. ARES is the place where \(non textbook\) readings are posted in most classes, but we are using Perusall instead.
