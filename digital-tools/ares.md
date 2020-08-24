@@ -15,6 +15,6 @@ Carleton's ITS has [different instructions](https://carleton.ca/its/help-centre/
 {% hint style="info" %}
 A VPN forwards all your network traffic to the university network, which is where the benefits – like accessing local network resources remotely and bypassing Internet censorship – all come from. 
 
-It also means that the university is aware how you are using your network connection \(and if you are doing so for nefarious reasons\). Thus, you might want to use the VPN connection only when you are doing research or work which benefits from it mimicking you being on campus. 
+It also means that the university is aware how you are using your network connection \(and like your ISP, can see what you access\). Thus, you might want to use the VPN connection only when you are doing research or work which benefits from it mimicking you being on campus. 
 {% endhint %}
 
