@@ -8,7 +8,7 @@ Teaching and learning this year will be an experiment. I will be teaching with s
 
 ### Class Design
 
-Given the uncertainty about the cyclical nature of the covid-19 pandemic, it is not clear at the time we are designing this course, what will be the exact teaching conditions of the upcoming academic year. We may be switching between face-to-face class time and online learning, so we have tried as best we could to make lectures, assignments and learning happen in either situation. 
+Given the uncertainty about the cyclical nature of the covid-19 pandemic, it is not clear at the time we are designing this course, what will be the exact teaching conditions of the upcoming academic year. We may be switching between face-to-face class time and online learning \[edit: the Academic senate just voted to extend online only until the Winter semester on August 24th\], so we have tried as best we could to make lectures, assignments and learning happen in either situation. 
 
 We will all need to recognize that there may be some slight revisions to the course and its requirements if it turns out that not all of the elements we planned are amenable to the distance learning format, so please treat the syllabus more like an intended plan of action than a hard-and-fast legally-binding agreement. 
 

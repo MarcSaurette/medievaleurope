@@ -8,7 +8,7 @@
   * [Your Professors](syllabus/your-professor/README.md)
     * [Dr. Marc Saurette](syllabus/your-professor/dr.-marc-saurette.md)
     * [Professor Sarah Keeshan](syllabus/your-professor/dr.-instructor-no.-2.md)
-    * [Your Teaching Assistant](syllabus/your-professor/your-teaching-assistant.md)
+    * [Vanessa Finney \(TA Extraordinaire\)](syllabus/your-professor/your-teaching-assistant.md)
   * [Learning Outcomes](syllabus/learning-outcomes.md)
   * [Communication](syllabus/communication/README.md)
     * [The Digital Classroom](syllabus/communication/digital-classrooms.md)

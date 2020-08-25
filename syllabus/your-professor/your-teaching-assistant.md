@@ -1,8 +1,10 @@
-# Your Teaching Assistant
+# Vanessa Finney \(TA Extraordinaire\)
 
-A teaching assistant is YYY. He/she/they ....
+Vanessa is going to be our Teaching Assistant this year. Her role is to help students, advocate for them, provide them with feedback on written work and lead \(optional\) tutorials for class. She is a Master's student in the Department of History and I \(Marc\) had the good fortune to teach her as an undergraduate, so I am very excited to have her as a part of our teaching team this year. 
 
+As she describes herself: 
 
+* I am a first year Masters student in History. My MA research focuses on prostitution and women’s rights in 19th century Britain, as well as technology such as virtual and augmented reality, videogames/role-playing games and their potential uses as teaching and research tools. My goal is to investigate and design pedagogical strategies which focus on new uses of interactive technology to give the lessons of history a broader appeal.
 
 ## Contacting the Teaching Assistant:
 
