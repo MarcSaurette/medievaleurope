@@ -38,6 +38,8 @@ This is an overview of the schedule for the Fall term here. Obviously, it is sti
 ### Week 10. Module 4.2 [Faith and Learning](module-4-society-and-culture/faith-and-learning.md)
 
 * [Draw a Monastery activity](https://lochinbrouillard.wordpress.com/2019/11/06/class-activity-draw-a-monastery/)
+* Reading: Knibbs, "How to use a modern critical edition"
+* Transcription Exercise
 
 ### Week 11. Module 4.3 [Power Structures](module-4-society-and-culture/structures-of-power.md)
 
