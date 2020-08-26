@@ -7,14 +7,15 @@ I'll post an overview schedule for the Fall term here. Obviously, this is still 
 ### Week 1. [Prologue to the Middle Ages](prologue-to-the-middle-ages/the-class-begins....md)
 
 * No online meet up this week. 
-* Take a look at the course guide \(i.e. this website\).
+* Read the course guide \(i.e. this website\)
 * Download and install Microsoft [Teams](digital-tools/teams/). 
-* Read through the [Syllabus](syllabus/) \(i.e. the front page and its subpages, from [Your Professors](syllabus/your-professor/) to  [Supplemental Material]()\)
-* * to the Medieval Europe Team
+* Read through the [Syllabus](syllabus/) \(i.e. the front page and its subpages, from [Your Professors](syllabus/your-professor/) to  [Supplemental Material]()\). A pdf version of the syllabus is on Perusall for you to annotate.
+* Sign in to [Perusall](syllabus/textbooks/#login-to-perusall-to-buy-textbooks) and buy the textbooks
 
 ### Week 2. Module 1.1 [When are the Middle Ages](module-1.-what-is-the-middle-ages/when-are-the-middle-ages.md)
 
-* Our first online meet up!
+* Our first online meet up on Teams!
+* Do the reading assigned on Perusall
 
 ### Week 3. Module 1.2 [Where are the Middle Ages](module-1.-what-is-the-middle-ages/where-are-the-middle-ages.md)
 
