@@ -8,7 +8,7 @@ description: >-
 
 ### Why Social Annotation/ Perusall?
 
-Social annotation takes the usually-solitary act of reading and allows students to do it in community with one another. By using digital tools to highlight, comment, or otherwise annotate a text, students “do the reading,” but do so in conversation with their peers.
+Social annotation takes the usually solitary act of reading and allows students to do it in community with one another. By using digital tools to highlight, comment, or otherwise annotate a text, students “do the reading,” but do so in conversation with their peers.
 
 Social annotation is an age-old process that is very medieval. What is different in speed. It would take centuries for texts to accrue a surrounding commentary, but we can do it online in real time in a very short span. Commentary \(medieval or modern\) can link to other media, can define key terms, provide further details or contradict the main text. We are, in essence, crowdsourcing \(you being the crowd\) the readings to allow you to deepen and expand your knowledge. 
 
