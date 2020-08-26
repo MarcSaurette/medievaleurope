@@ -1,5 +1,7 @@
 # The Research Process
 
+![How to tackle a big writing project using primary sources.](../../.gitbook/assets/the-writing-process%20%281%29.jpg)
+
 ### What is the research process followed by historians?
 
 After researching a topic by reading and interpreting primary sources \(whether that is documents, art works, architecture\), historians write up their conclusions about the subject area. They do so to share their findings and create a lasting record of their thinking. This can take many forms – in history the most common is a journal article or a “monograph” \(i.e. a book-length study on a single topic\). In some ways, a monograph can be seen as a long version of a journal article. It may be a revised version of a number of previously-written journal articles which are then rewritten and reworked to cover a large topic comprehensively. 
