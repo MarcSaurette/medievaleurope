@@ -25,6 +25,8 @@ This is an overview of the schedule for the Fall term here. Obviously, it is sti
 
 ### Week 4. Module 2.1 [The Late Roman Empire](module-1-the-late-antique-world/untitled.md)
 
+* Read: 
+
 ### Week 5. Module 2.2 [The Transformation of Empire](module-1-the-late-antique-world/the-transformation-of-empire.md)
 
 ### Week 6. Module 3.1 [Successor Kingdoms](module-2-the-post-roman-mediterranean/untitled.md)
