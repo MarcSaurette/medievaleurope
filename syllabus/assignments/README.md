@@ -56,5 +56,5 @@ A "[proces letter](process-letter.md)" is something we use to describe an end-of
 * Critical Analysis no,. 2                              2000 words
 * Process Letter                                           500 words
 
-These are minimums. I am usually happy for you to exceed these rough estimates of length \(as long as you don't unnessarily bloat your writing with nonsense and random filler\).
+These are minimums. I am usually happy for you to exceed these rough estimates of length \(as long as you don't unnecessarily bloat your writing with nonsense and random filler\).
 
