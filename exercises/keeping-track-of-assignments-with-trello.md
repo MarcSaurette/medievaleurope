@@ -2,7 +2,7 @@
 
 ### Read
 
-Make sure you have read through the following pages and followed the instructions there to sign up for Trello and for our Trello Group. 
+Make sure you have read through the following pages and followed the instructions there to sign up for Trello and to join our Trello Group. 
 
 {% page-ref page="../digital-tools/trello/" %}
 
