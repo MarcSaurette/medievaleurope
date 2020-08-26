@@ -49,7 +49,7 @@ Our plan is to give students a wide variety of opportunities to actively partici
 
 Given the variety of factors that might impact a given student’s ability to participate fully and consistently through any one of these methods \(and to ensure that the professor can be as flexible as possible accommodating students’ specific situations\), participation will be understood holistically. That is to say, participation is viewed as the sum total of a student’s participation through all of the above \(and other\) methods – meaning that it is possible for students to successfully satisfy their participation mark without engaging in all types of participation every week. 
 
-In general, here are some examples of the type of questions studets will be asked to think about in evaluating their participation:
+In general, here are some examples of the type of questions students will be asked to think about in evaluating their participation:
 
 * Did the student remain strongly focused during the class and did s/he/they seek to actively listen/process/integrate the ideas during class lectures/discussions?
 * Did the student participate in class discussion \(e.g. through live questions/comments; through the chat/whiteboard functions; during voluntary discussion groups\)? 
