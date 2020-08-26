@@ -1,7 +1,7 @@
 # Weekly Schedule
 
 {% hint style="danger" %}
-I'll post an overview schedule for the Fall term here. Obviously, this is still in progress. 
+This is an overview of the schedule for the Fall term here. Obviously, it is still in progress. When complete, it may not be exhaustive. Check each week's dedicated page for more details \(i.e. click on the titles for links\). 
 {% endhint %}
 
 ### Week 1. [Prologue to the Middle Ages](prologue-to-the-middle-ages/the-class-begins....md)
@@ -10,14 +10,18 @@ I'll post an overview schedule for the Fall term here. Obviously, this is still 
 * Read the course guide \(i.e. this website\)
 * Download and install Microsoft [Teams](digital-tools/teams/). 
 * Read through the [Syllabus](syllabus/) \(i.e. the front page and its subpages, from [Your Professors](syllabus/your-professor/) to  [Supplemental Material]()\). A pdf version of the syllabus is on Perusall for you to annotate.
+* Introduce yourself to your fellow students on Teams
 * Sign in to [Perusall](syllabus/textbooks/#login-to-perusall-to-buy-textbooks) and buy the textbooks
 
 ### Week 2. Module 1.1 [When are the Middle Ages](module-1.-what-is-the-middle-ages/when-are-the-middle-ages.md)
 
 * Our first online meet up on Teams!
 * Do the reading assigned on Perusall
+* Complete the Document Analysis 
 
 ### Week 3. Module 1.2 [Where are the Middle Ages](module-1.-what-is-the-middle-ages/where-are-the-middle-ages.md)
+
+### 
 
 ### Week 4. Module 2.1 [The Late Roman Empire](module-1-the-late-antique-world/untitled.md)
 
