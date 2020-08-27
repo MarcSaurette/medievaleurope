@@ -21,11 +21,11 @@ This is an overview of the schedule for the Fall term here. Obviously, it is sti
 
 ### Week 3. Module 1.2 [Where are the Middle Ages](module-1.-what-is-the-middle-ages/where-are-the-middle-ages.md)
 
-### 
+* Visit from Susan Tudin, History area specialist in the Library
 
 ### Week 4. Module 2.1 [The Late Roman Empire](module-1-the-late-antique-world/untitled.md)
 
-* Read: 
+* Read: 1-21 in _Short History of the Middle Ages_
 
 ### Week 5. Module 2.2 [The Transformation of Empire](module-1-the-late-antique-world/the-transformation-of-empire.md)
 

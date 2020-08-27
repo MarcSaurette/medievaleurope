@@ -6,15 +6,15 @@ For this class to work, especially in an online environment, everyone needs to g
 
 | Assignment | Date due |
 | :--- | :--- |
-| cuPortfolio profile | Friday of week 2 \(September 25\) |
-| Critical reflection no. 1 | Friday of week 4 \(October 9\) |
-| Critical reflection no. 2 | Friday of week 12 \(December 4\) |
-| Draft Document Analysis | Friday of week 7 \(October 30\) |
-| Peer Feedback | Friday of week 9 \(November 13\) |
-| Rewritten Document Analysis | Friday of week 11 \(November 27\) |
-| Process Letter | Friday of week 13 \(December 11\) |
+| cuPortfolio profile | 4pm Friday of week 2 \(September 25\) |
+| Critical reflection no. 1 | 4pm Friday of week 4 \(October 9\) |
+| Critical reflection no. 2 | 4pm Friday of week 12 \(December 4\) |
+| Draft Document Analysis | 10am Monday of week 7 \(November 2\) |
+| Peer Feedback | 4pm Friday of week 9 \(November 13\) |
+| Rewritten Document Analysis | 4pm Friday of week 11 \(November 27\) |
+| Process Letter | 4pm Friday of week 13 \(December 11\) |
 
-\*The "end of the week" is understood to be by 5pm on Fridays. 
+\*The "end of the week" is understood to be by 4pm on Fridays. The sole exception is the deadline for the Draft Document Analysis, which will be due at 10am on Monday, November 2 \(the Monday after reading week\). This deadline is very important so that your work can be read by your peers and given feedback. 
 
 ### Extensions and Accommodations
 
