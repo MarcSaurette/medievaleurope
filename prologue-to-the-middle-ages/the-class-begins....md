@@ -1,6 +1,6 @@
 # Prologue
 
-### Goals for this week
+### Goals for this week \(September 15, 2020\)
 
 By the end of the first week, what should you **know**, be able to **do** and **understand**?
 

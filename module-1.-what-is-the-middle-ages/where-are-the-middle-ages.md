@@ -1,12 +1,14 @@
 # Where are the Middle Ages?
 
-### Goals for this week
+### Goals for this week \(September 29, 2020\)
 
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 
 ### Overview:
 
 Provide a short rationale for this week’s work suggesting its purpose in terms of the program of studies. \(Why we're doing this...\)
+
+* Presentation from Susan Tudin, History subject specialist at MacOdrum Library
 
 ### **Online Time**
 
