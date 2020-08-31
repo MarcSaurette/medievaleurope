@@ -13,6 +13,7 @@
   * [Communication](syllabus/communication/README.md)
     * [The Digital Classroom](syllabus/communication/digital-classrooms.md)
     * [Digital Office Hours](syllabus/communication/digital-office-hours.md)
+    * [Discussion Groups](syllabus/communication/discussion-groups.md)
   * [Textbooks](syllabus/textbooks/README.md)
     * [Social Annotation](syllabus/textbooks/social-annotation.md)
   * [Coursework](syllabus/assignments/README.md)

@@ -10,9 +10,5 @@ We can meet with students one-on-one via [Teams](../../digital-tools/teams/). I'
 
 Just as you click to join class each week, you'll click to join the office hours meeting. Instead of it being the whole class together, however, I will admit people into the discussion on a person-by-person basis. 
 
-[There is a sign up sheet for each week here](https://docs.google.com/spreadsheets/d/153_Rzt-yaPZOm7jPI7JaWtQD6rwccmskbzYvkkFttCM/edit?usp=sharing). 
-
-### TA Office Hours
-
-TBA
+[There is a sign up sheet for each week here](https://docs.google.com/spreadsheets/d/153_Rzt-yaPZOm7jPI7JaWtQD6rwccmskbzYvkkFttCM/edit?usp=sharing) for the professors and TA's office hours and the optional discussion groups. 
 
