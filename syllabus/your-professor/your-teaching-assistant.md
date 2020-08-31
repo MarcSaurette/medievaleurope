@@ -10,5 +10,5 @@ As she describes herself:
 
 The teaching assistant will be online for 30mins before class each Tuesday throughout the term. You can message them privately via Teams chat or publically in the General channel. Also they will be logged into the lecture videochat \(in the scheduled class meeting\) in the 30 mins prior to  class. 
 
-They also have regular office hours each week on Xdays, which you need to sign up for in advance \([here](https://docs.google.com/spreadsheets/d/153_Rzt-yaPZOm7jPI7JaWtQD6rwccmskbzYvkkFttCM/edit?usp=sharing)\). 
+They also have regular office hours each week on Fridays, which you need to sign up for in advance \([here](https://docs.google.com/spreadsheets/d/153_Rzt-yaPZOm7jPI7JaWtQD6rwccmskbzYvkkFttCM/edit?usp=sharing)\). 
 
