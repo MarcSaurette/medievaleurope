@@ -17,7 +17,8 @@ Other software will be free to you because of arrangements between vendors and C
 3. [Trello](trello/) or maybe MS Planner. It makes sense to have a tool for planning out assignments – especially for group projects. 
 4. [Zotero](zotero.md): an incredibly useful tool to  download, organize and keep track of web and bibliographic resources you use and find during your research. It can export bibliographies directly into a Word document \(which is much less painful than doing each by hand...\) 
 5. [cuPortfolio](cuportfolio.md): Carleton's Eportfolio platform. We'll post much of our work here. 
-6. [Hypothes.is](hypothes.is.md): A tool for annotating the web. We'll use it for commenting on each others work in cuPortfolio and for working collaboratively to annotate resources together. 
-7. [cuLearn](culearn.md): We are forced by the university to use this as our Learning Management Software. Expect to use this as little as possible in the first term?
-8. [Poll Everywhere](poll-everywhere.md):  This allows students to give feedback mid-lecture, answering polls, multiple-choice questions, create word clouds etc. We'll use it via our powerpoints. 
+6. [Perusall](../syllabus/textbooks/): A social annotation site where our textbooks and assigned readings are located. 
+7. [Hypothes.is](hypothes.is.md): A tool for annotating the web. We might use it for commenting on each others work in cuPortfolio and for working collaboratively to annotate resources together. 
+8. [cuLearn](culearn.md): We are forced by the university to use this as our Learning Management Software. Expect to use this as little as possible in the first term?
+9. [Poll Everywhere](poll-everywhere.md):  This allows students to give feedback mid-lecture, answering polls, multiple-choice questions, create word clouds etc. We'll use it via our powerpoints. 
 
