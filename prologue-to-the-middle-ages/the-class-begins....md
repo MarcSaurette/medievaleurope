@@ -12,12 +12,13 @@ By the end of the first week, what should you **know**, be able to **do** and **
 
 The first week of class provides a transition back to school. This year the transition back to school also corresponds to a transition to online learning. This week asks you to focus on practical concerns, especially on getting used to the online environment we will be using in this class. Normally the first class of the year focusses on handing out/ discussing the syllabus and getting to know one another. So we're doing that this year. This week I want you to: 
 
-1. Read the syllabus on Perusall/ online courseguide and identify any questions. 
-2. Use [MS Teams](../digital-tools/teams/) \(activate, install and login to the class group\). 
-3. Login to [Perusall](../syllabus/textbooks/#login-to-perusall-to-buy-textbooks) and purchase the textbooks. 
-4. Familiarize yourself with some of the [Digital tools ](../digital-tools/)we'll be using this year.
-5. [Introduce yourself and say hello](../exercises/week-1-icebreaker.md) to your classmates in the week one channel on Teams.
-6. Complete this [background survey](../exercises/background-survey.md) to let me know more about you. 
+1. Make sure you have access to your Carleton email \(ends with @cmail.carleton.ca\)
+2. Read the syllabus on Perusall/ online courseguide and identify any questions. 
+3. Use [MS Teams](../digital-tools/teams/) \(activate, install and login to the class group\). 
+4. Login to [Perusall](../syllabus/textbooks/#login-to-perusall-to-buy-textbooks) and purchase the textbooks. 
+5. Familiarize yourself with some of the [Digital tools ](../digital-tools/)we'll be using this year.
+6. [Introduce yourself and say hello](../exercises/week-1-icebreaker.md) to your classmates in the week one channel on Teams.
+7. Complete this [background survey](../exercises/background-survey.md) to let me know more about you. 
 
 ### **Online Time**
 
