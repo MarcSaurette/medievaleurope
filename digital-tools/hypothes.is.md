@@ -1,7 +1,7 @@
 # Hypothes.is
 
 {% hint style="danger" %}
-Actually, we won't be using hypothes.is in class unless Perusall goes horribly horribly wrong. But I'm keeping this here just in case...
+Actually, we won't be using hypothes.is for the readings \(which is done on Perusall\). But rather only for receiving feedback on written \(web-based assignments\). 
 {% endhint %}
 
 [Hypothes.is ](https://hypothes.is)is a tool which allows you to annotate web content for your personal research use or, in our case, to allow us to collaborate as a group. It is, in essence, a digital version of you writing notes in the margins of a book/ photocopy. If you open a pdf in your browser, for example, you can annotate it and all your comments are saved in a central location. 
