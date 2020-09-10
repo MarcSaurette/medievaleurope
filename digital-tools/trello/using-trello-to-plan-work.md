@@ -16,7 +16,11 @@ After you have signed into our "Medieval Europe Assignments" board, you should c
 
 ![](../../.gitbook/assets/screen-shot-2020-09-10-at-9.45.20-am.png)
 
-6. You now have the option to rename it. Rename it something like "Your Last Name's HIST 2000 Assignments". Play around with it - you can choose a new background if you want... Then go back to the Menu \(by clicking on the "Show menu" button \(step 3\) and click on "Settings". 
+6. You now have the option to rename it. Rename it something like "Your Last Name's HIST 2000 Assignments". Thanks to Emma, I now remember that a key limitation on free Trello teams is that they can only have 10 total boards. There are about 80 of you, so clearly this is not going to work \(and there is not sense paying to have access to one board\). So when you are copying the board, change the Team settings to personal \(i.e. "None"\). You can make the board public if you want \(click on the word "change" underneath the drop down menu\), but I don't see any reason to. This is just to have a board to help you plan your work. 
+
+![](../../.gitbook/assets/screen-shot-2020-09-10-at-2.00.27-pm.png)
+
+7. To check on who can see and edit your page, go back to the Menu \(by clicking on the "Show menu" button \(step 3\) and click on "Settings". 
 
 ![](../../.gitbook/assets/screen-shot-2020-09-10-at-9.45.43-am.png)
 
