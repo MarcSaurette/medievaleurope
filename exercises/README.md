@@ -5,4 +5,5 @@ Over the course of the first term, we typically spend much of the second class e
 * anatomy of a primary source
 * anatomy of an academic article
 * library skills
-* 
+* and more.....
+
