@@ -21,18 +21,19 @@ This week we will move from examing the Middle Ages as a temporal phenomenon \(a
 
 From 11h30 until 13h00, the professor will speak about the traditional geographic definition of the "Medieval World" and how this has changed in the last decades. Students will be asked to consider their own inherited ideas about the Middle Ages to see where they place borders \(and why?\). 
 
-From 13h15 unti 14h30, Susan Tudin, the History subject specialist, will lead a presentation on doing research in the library \(well, through the library, since it's all online these days...\)
+From 13h15 until 14h00, Susan Tudin, the History subject specialist, will lead a presentation on doing research in the library \(well, through the library, since it's all online these days...\)
+
+From 14h00 until 14h30, I'll answer questions \(historical or otherwise\) that you/we might have about the class. 
 
 ### Read/Watch/Listen
 
 Students will need to read and annotate:
 
 * An article entitled, "Where are the Middle Ages" on a scholarly blog, the _Public Medievalist_, a copy of which is located on Perusall. 
-* On Wednesday, we will read an academic article looking the idea of the Global Middle Ages on Perusall. In preparation, please read the description of the exercise [here](../exercises/anatomy-of-an-academic-article/):  
 
 ### Practice
 
-* We will continue to practice using the Perusall social annotation tool on Wednesday. 
+* explore how to use library resources with Susan Tudin \(History librarian\) - in class. 
 
 ### **Discuss**
 
