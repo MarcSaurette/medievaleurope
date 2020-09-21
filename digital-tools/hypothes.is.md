@@ -66,7 +66,7 @@ We will use [hypothes.is](hypothes.is.md) _via_ a plug-in on your Chrome Browser
 
 ![](../.gitbook/assets/screen-shot-2020-06-17-at-9.36.44-am.png)
 
-14. Play around with Hypothes.is. The first step is to view this page with the plugin activated, and **see the final instruction I have posted there**. You might also want to make a separate private folder for comments you want to keep to yourself \(or for each research project you are working on this year...\). 
+14. Play around with Hypothes.is. Originally I wanted you to annotate this page, but something about how gits \(gitbook. github\) saves files means that annotations get orphaned \(and disappear\). So we can't do that it seems.
 
 15. For more of a sense of what hypothes.is can do, take a look at their [tutorials](https://web.hypothes.is/help-categories/tutorials/).
 
