@@ -6,7 +6,7 @@ By the end of this week, what should students **know**, be able to **do** and **
 
 1. Learn about how medievalists think about the periodization \(i.e. the temporal limits\) of the Middle Ages and why it is considered a historical period worthy \(or not\) of study.
 2. Learn what a primary source is and the problems of interpretation 
-3. Learn how to use Perusall in order to annotate a primary source 
+3. Practice using Perusall to annotate readings and to cultivate discussions
 
 ### Overview:
 
@@ -38,7 +38,11 @@ Students need to have installed and successfully logged into Teams by Monday, Se
 
 * read through the 4 pages of the [Anatomy of a Primary Source](../exercises/anatomy-of-a-primary-source/) exercise
 * read the _Founding Charter of Cluny_ in the primary source reader in Perusall
-* read the 
+* in preparation for next week's class, read on Perusall, Holmes and Standen's "Towards a Global Middle Ages"– an introduction to an edited volume exploring the idea of the Middle Ages as a global phenomenon.
+
+### Do
+
+* By September 27th, students should have logged into cuPortfolio and created an introductory [Profile](../syllabus/assignments/critical-reflections.md#profile) and shared it with the class. Take a look on Sunday to see who else is in your class!
 
 ### Practice
 
@@ -58,20 +62,15 @@ Read the following pages as preparation for the annotation exercise on Perusall.
 
 What questions should students be discussing with each other?
 
-* 
-### **Do**
-
-What quizzes \(if any\) or other activities should students complete this week to evaluate their own progress? How will they know they are “on track”?
-
-### **Assess** 
-
-Is there a graded assignment this week? If so, what is the assignment and when does it need to be submitted?
+* The first two meetings this year focus on locating the Middle Ages as a time-based \(chronological/ temporal\) and geographically-framed \(it has a place\) phenomenon. As you read the readings and annotate them, think about how the authors of the articles define the Middle Ages in space and time. 
 
 ### Going Further
 
-If students want to do more to ensure success, what materials and resources \(e.g. reading, video, audio simulations, games\) do you recommend?
+If students want to do more, follow through the Digital Tools section on the course site and sign up, get used to the environments and play around a bit. 
 
 ### **Help**
 
- If a student is struggling, how should they seek help?
+ If you need help, take a look to see if your question is already answered on the coursesite \(it has a search function\), on Teams \(also searchable\), and then ask the professor for this week. 
+
+We're all getting used to the online environment, so it might take some work to sort things out. Some things are beyond my ken and ability to help - if you have trouble with Perusall \(for example, they won't give you access to the textbook you bought through them\), you might have to take this up directly with them \(I'm afraid\). 
 
