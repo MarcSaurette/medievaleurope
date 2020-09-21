@@ -53,7 +53,3 @@ This week you will receive feedback on the Profiles you created on cuPortfolio l
 
 If students want to prepare more they can sign up for [hypothes.is](../digital-tools/hypothes.is.md) and [zotero](../digital-tools/zotero.md). For joining the Medieval Europe Group Zotero group, you need to get approval which can take a few days. 
 
-### **Help**
-
- If a student is struggling, how should they seek help?
-
