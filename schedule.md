@@ -4,7 +4,7 @@
 This is an overview of the schedule for the Fall term here. Obviously, it is still in progress. When complete, it may not be exhaustive. Check each week's dedicated page for more details \(i.e. click on the titles for links\). 
 {% endhint %}
 
-### Week 1. [Prologue to the Middle Ages](prologue-to-the-middle-ages/the-class-begins....md)
+### Week 1. [Prologue to the Middle Ages](prologue-to-the-middle-ages/the-class-begins.md)
 
 * No online meet up this week. 
 * Read the course guide \(i.e. this website\)

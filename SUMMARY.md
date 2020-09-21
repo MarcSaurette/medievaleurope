@@ -56,7 +56,7 @@
 
 ## Prologue to the Middle Ages
 
-* [Prologue](prologue-to-the-middle-ages/the-class-begins....md)
+* [Prologue](prologue-to-the-middle-ages/the-class-begins.md)
 
 ## Module 1. What are the Middle Ages? <a id="module-1.-what-is-the-middle-ages"></a>
 
