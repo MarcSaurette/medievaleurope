@@ -68,6 +68,8 @@ What questions should students be discussing with each other?
 
 If students want to do more, follow through the Digital Tools section on the course site and sign up, get used to the environments and play around a bit. 
 
+Also, if you want to get a better sense of how medieval people reckoned time, take a look at this helpful guide on how to date primary sources \([focussing on English sources\)](https://www.nottingham.ac.uk/manuscriptsandspecialcollections/researchguidance/datingdocuments/introduction.aspx)
+
 ### **Help**
 
  If you need help, take a look to see if your question is already answered on the coursesite \(it has a search function\), on Teams \(also searchable\), and then ask the professor for this week. 
