@@ -28,7 +28,8 @@ During class time in the first week \(11h30-2h30, Tuesday September 15, 2020\), 
 
 ### Read/Watch/Listen
 
-Once you have logged-in to [Perusall](../syllabus/textbooks/#login-to-perusall-to-buy-textbooks), you will find a pdf copy of the syllabus \(a truncated and simplifed version of this Gitbook course guide\). Please read it, and annotate it to emphasize key ideas, or ask questions of things which don't make sense. 
+* Once you have logged-in to [Perusall](../syllabus/textbooks/#login-to-perusall-to-buy-textbooks), you will find a pdf copy of the syllabus \(a truncated and simplifed version of this Gitbook course guide\). Please read it, and annotate it to emphasize key ideas, or ask questions of things which don't make sense. 
+* In preparation for the week 2 class, please read and annotate the article, "Remembering the Middle Ages" also posted on Perusall. 
 
 ### Practice
 
