@@ -38,7 +38,6 @@ Students need to have installed and successfully logged into Teams by Monday, Se
 
 * read through the 4 pages of the [Anatomy of a Primary Source](../exercises/anatomy-of-a-primary-source/) exercise
 * read the _Founding Charter of Cluny_ in the primary source reader in Perusall
-* in preparation for next week's class, read on Perusall, Holmes and Standen's "Towards a Global Middle Ages"– an introduction to an edited volume exploring the idea of the Middle Ages as a global phenomenon.
 
 ### Do
 
