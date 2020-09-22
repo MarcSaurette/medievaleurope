@@ -31,6 +31,7 @@ Students will need to read and annotate:
 
 * An article entitled, "Where are the Middle Ages" on a scholarly blog, the _Public Medievalist_, a copy of which is located on Perusall. 
 * \(optional\) The article contains images taken from the "Catalan Atlas" which has been digitized and put online. [Consult it here](https://www.nottingham.ac.uk/manuscriptsandspecialcollections/researchguidance/datingdocuments/introduction.aspx) if you want to see more images and more details. 
+* In week 4, we will annotate an article together written by Holmes & Standen entitled, "Introduction. Towards a Global Middle Ages". The content is relevent for this week, so you might want to read it earlier than later. Annotations on this article are not due until October 11, however. 
 
 ### Practice
 

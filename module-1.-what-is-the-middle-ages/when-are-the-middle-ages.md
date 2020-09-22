@@ -29,11 +29,14 @@ Students need to have installed and successfully logged into Teams by Monday, Se
 
 1. We will be meeting online from 11h30-1h00, September 22, 2020.  [Join the Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3a0cd0f4caf3a340a0a69ca0ebdd53ca0d%40thread.tacv2/1591642462316?context=%7b%22Tid%22%3a%226ad91895-de06-485e-bc51-fce126cc8530%22%2c%22Oid%22%3a%22b8e11e76-90c8-4bf2-a5e3-cca184e3c823%22%7d). The Teaching Assistant and I will be online about 15 minutes before class if you want to discuss anything with us.  
 
-* the professor will introduce and talk about how to define the Middle Ages as a chronological period
-* students will divided into small groups to meet one another and to discuss assigned reading material.
-* we'll end this synchronous session with an AMA \(Ask-me-anything\) session for the final 20 mins.
+* the professor will introduce himself and the class
+* students will divided into small groups to meet one another; goal of the small group discussion is to decide on two questions that people would most like to be answered about the class.
+* we'll spend some times discuss  questions that might have arisen
+* we'll spend 40 minutes speaking about how to define the Middle Ages temporally/ chronologically.
 
-2. From 1h00 until 2h30 I will demonstate on Teams how to use Perusall to annotate a primary source in the course reader. You can follow along, ask questions, and annotate the text alongside your classmates in real time. You are not required to be online synchronously for this  but this will be recorded and available for watching at a later time. 
+2. From 13h00 until 13h15, we'll take a break. 
+
+3. From 13h15 until 2h30 I will demonstate on Teams how to use Perusall to annotate a primary source in the course reader. You can follow along, ask questions, and annotate the text alongside your classmates in real time. You are not required to be online synchronously for this  but this will be recorded and available for watching at a later time. I'll post a link to the videos in the topbar of the week 2 channel on Teams. 
 
 ### Read/Watch/Listen
 
