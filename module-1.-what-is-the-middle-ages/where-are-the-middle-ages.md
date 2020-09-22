@@ -30,6 +30,7 @@ From 14h00 until 14h30, I'll answer questions \(historical or otherwise\) that y
 Students will need to read and annotate:
 
 * An article entitled, "Where are the Middle Ages" on a scholarly blog, the _Public Medievalist_, a copy of which is located on Perusall. 
+* \(optional\) The article contains images taken from the "Catalan Atlas" which has been digitized and put online. [Consult it here](https://www.nottingham.ac.uk/manuscriptsandspecialcollections/researchguidance/datingdocuments/introduction.aspx) if you want to see more images and more details. 
 
 ### Practice
 
