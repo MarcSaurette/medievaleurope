@@ -2,9 +2,13 @@
 
 * highlight the trans-Mediterrenean integration
 
-### Goals for this week
+### Goals for this week \(October 6\)
 
 By the end of this week, what should students **know**, be able to **do** and **understand**?
+
+* we will learn about the problems faced in the Late Antique Period \(from the 3rd century\) and the solutions proposed from Rome. These problems and solutions prepared for and are a key foundation of the transformation of Empire that we see as the beginning of the Middle Ages
+* learn about the nature of the "Roman Empire" to highlight that Roman rule was a thin veneer of power atop a diverse, multi-cultural and multi-linguistic community. 
+* learn how to read a scholarly source efficiently and effectively. 
 
 ### Overview:
 
@@ -20,7 +24,7 @@ What do students need to read this week?
 
 ### Practice
 
-Are there practical activities \(tasks, labs, fieldwork\), which students must do this week? If so, what are they and what specifically do they need to do, bearing in mind social-distancing?
+We will start using _Polls Everywhere_ this week. Please sign up for an account. 
 
 ### **Discuss**
 

@@ -35,7 +35,8 @@ Students will need to read and annotate:
 
 ### Practice
 
-* explore how to use library resources with Susan Tudin \(History librarian\) - in class. 
+* explore how to use library resources with Susan Tudin \(History librarian\) - in class.
+* sign up for [hypothesis](../digital-tools/hypothes.is.md), join our group and get the plugin installed on your browser. Vanessa will be providing feedback on your cuPortfolio profiles by providing "comments" in cuPortfolio and leaving annotations to identify typos, syntax etc. with hypothesis. 
 
 ### **Discuss**
 
