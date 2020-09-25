@@ -2,10 +2,6 @@
 
 For this class to work, especially in an online environment, everyone needs to get all work completed on time. Since the assignments are designed to build on each other and there needs to be enough time to move from one assignment to the next, there is almost no margin for delay. So, in sum, get your work in on time. 
 
-{% hint style="info" %}
-Since I planned this Deadline schedule, I realized that it is unlikely that I will be marking much of anything with my kids at home, so instead have decided to push the deadlines to Sunday nights. So for all the deadlines add +2 days EXCEPT for the Draft Document Analysis.
-{% endhint %}
-
 ### Important Dates
 
 | Assignment | Date due |
