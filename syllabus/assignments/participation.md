@@ -47,6 +47,15 @@ Our plan is to give students a wide variety of opportunities to actively partici
 
 ### General principles of evaluation: 
 
+| Points | Nature of Participation |
+| :--- | :--- |
+| 0 | Student does not engage in participation \(i.e. ask questions on Teams, respond during synchronous portion of class, attend optional group discussions, etc.\) and has not done the readings.  |
+| 1 | Student participates but has not read the readings. |
+| 2 | Student does not participate, but has read the readings \(but maybe not annotated\). |
+| 3 | Student participates and has done the readings with minimum number of annotations on Perusall. |
+| 4 | Student participates more than typical and shows considerable engagement with the readings on Perusall.  |
+| 5 | Student participates exceptionally \(is online synchronously, asks questions and gives answers during class, posts on Teams and help peers, attends the optional discussion group\) and shows exceptional engagement with the readings on Perusall.  |
+
 Given the variety of factors that might impact a given student’s ability to participate fully and consistently through any one of these methods \(and to ensure that the professor can be as flexible as possible accommodating students’ specific situations\), participation will be understood holistically. That is to say, participation is viewed as the sum total of a student’s participation through all of the above \(and other\) methods – meaning that it is possible for students to successfully satisfy their participation mark without engaging in all types of participation every week. 
 
 In general, here are some examples of the type of questions students will be asked to think about in evaluating their participation:
