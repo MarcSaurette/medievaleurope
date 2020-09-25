@@ -24,7 +24,7 @@ What do students need to read this week?
 
 ### Practice
 
-We will start using _Polls Everywhere_ this week. Please sign up for an account. 
+We will start using _Polls Everywhere_ this week. Please so please sign up for an account by October 6th. 
 
 ### **Discuss**
 
