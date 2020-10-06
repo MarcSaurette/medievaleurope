@@ -10,29 +10,29 @@ By the end of this week, what should students **know**, be able to **do** and **
 * learn about the nature of the "Roman Empire" to highlight that Roman rule was a thin veneer of power atop a diverse, multi-cultural and multi-linguistic community. 
 * learn how to read a scholarly source efficiently and effectively. 
 
-### Overview:
-
-Provide a short rationale for this week’s work suggesting its purpose in terms of the program of studies. \(Why we're doing this...\)
-
 ### **Online Time**
 
-What will you focus on during your FaceTime with the students?
+For the first 1.5 hrs of class, we will explore the nature of the Late Antique Roman Empire, focussing on its structural flaws and attempts to remedy them in the Third and Early Fourth centuries. 
 
-### Read/Watch/Listen
+After a break we will return for a short discussion about the primary source reading, the Theodosian code \(or the extract in Rosenwein's reader focussed on divorce law\). 
 
-What do students need to read this week?
+I have pre-recorded an introduction to reading a scholarly source. Please watch this video \(posted in the week four channel on Teams \(see top tab "Videos"\) before annotating. 
 
-### Practice
+### Read
 
-We will start using _Polls Everywhere_ this week. Please so please sign up for an account by October 6th. 
+* selection from _A Short History of the Middle Ages on Perusall_
+* an extract from the Theodosian Code in _Reading the Middle Ages_
+* the article, "Towards a Global Middle Ages" by Holmes and Standen \(due at the end of the week\)
 
 ### **Discuss**
 
-What questions should students be discussing with each other on the discussion board for this course?
+* when reading the Theodosian code, think about how the rules of divorce reinforce or challenge your ideas of Ancient Rome. And think about what the legal position of women seem to have from this short extract in comparison to men. 
+* in reading _A short history of the Middle Ages_, think about the structural problems of Third Century Rome. And compare this with your expectations for how Roman society should be at this time. 
+* In reading, "Towards a Global Middle Ages" think back to last week's lecture about the geographic framing of time periods. Holmes and Standen talk about the Middle Ages as a "age of experimentation". Does that seem realistic to you?
 
 ### **Do**
 
-What quizzes \(if any\) or other activities should students complete this week to evaluate their own progress? How will they know they are “on track”?
+Complete an End of Week Report on Friday. 
 
 ### **Assess** 
 
