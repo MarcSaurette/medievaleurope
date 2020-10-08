@@ -18,11 +18,12 @@ After a break we will return for a short discussion about the primary source rea
 
 I have pre-recorded an introduction to reading a scholarly source. Please watch this video \(posted in the week four channel on Teams \(see top tab "Videos"\) before annotating. 
 
-### Read
+### Read/Watch
 
 * selection from _A Short History of the Middle Ages on Perusall_
 * an extract from the Theodosian Code in _Reading the Middle Ages_
 * the article, "Towards a Global Middle Ages" by Holmes and Standen \(due at the end of the week\)
+* \(optional\) for an introduction to Christianity, you can watch and reflect critically on this 2006 documentary, [_The Grand Invention- Christianity_](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=37608) \(available through the library\), part of a larger series on Judaism, Islam and Christianity. Another documentary series [_Christianity: A brief History_](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?seriesID=33894&wID=104730) __outlines the history of Christianity from its beginning to the present. Like all sources, keep a critical eye/ear when watching these.  __
 
 ### **Discuss**
 
