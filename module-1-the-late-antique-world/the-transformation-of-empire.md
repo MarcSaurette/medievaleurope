@@ -10,7 +10,7 @@ By the end of this week, what should students **know**, be able to **do** and **
 
 ### Overview:
 
-This week we will explore the end of Late Antiquity, and the rise of two key forces that promoted then end of the existing Roman system around the Mediterranean: the rise of Christianity as an Imperial ideaology and the growing influence of the provinces \(aka the Barbarians\). These two trends lead to a weakening of traditional Roman elites and begin a process of fragmentation, which manifests itself first in division of Europe into kingdoms. 
+This week we will explore the end of Late Antiquity, and the rise of two key forces that promoted then end of the existing Roman system around the Mediterranean: the rise of Christianity as an Imperial ideaology and the growing influence of the provinces \(aka the Barbarians\). These two trends lead to a weakening of traditional Roman elites and begin a process of fragmentation, which manifests itself  in division of Europe into kingdoms, and later in the loss of control over the Near East/ North Africa. 
 
 ### **Online Time**
 
