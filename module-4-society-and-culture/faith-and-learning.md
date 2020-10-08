@@ -14,6 +14,10 @@ What will you focus on during your FaceTime with the students?
 
 ### Read/Watch/Listen
 
+* _Saints and Sinners: A Millenium of Monasteries_ \(BBC Documentaries via Films-On-Demand\)
+
+  *  [Part 1](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=95209) and [Part 2](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=95210). 
+
 * Joan M. Ferrante, ‘[Caesaria, abbess of Arles’](https://epistolae.ctl.columbia.edu/woman/25209.html), _Epistolae: Medieval Women’s Latin Letters_. New York: Columbia University, 2014.
 * Professor Ferrante’s edition and translation of [Caesaria’s letter to Radegund](https://epistolae.ctl.columbia.edu/letter/915.html).
 * Original Latin edition in the [Monumenta Germanie Historica](https://www.dmgh.de/mgh_epp_3/index.htm#page/450/mode/1up) from which Joan Ferrante's draws for her translation. 
@@ -24,8 +28,6 @@ What will you focus on during your FaceTime with the students?
 
 * Magdalena Elizabeth Carrasco, “Spirituality in Context: The Romanesque Illustrated Life of St. Radegund of Poitiers \(Poitiers, Bibl. Mun., MS 250\).” _The Art Bulletin_ 72: 3 \(1990\), pp. 414–435. 
 * Jennifer C. Edwards, _Superior Women: Medieval Female Authority in Poiters’ Abbey of Sainte-Croix_ \(Oxford: Oxford University Press, 2019\), pp. 25-59.
-
-\*\*\*\*
 
 ### Practice
 
