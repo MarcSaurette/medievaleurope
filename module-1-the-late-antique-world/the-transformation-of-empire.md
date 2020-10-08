@@ -4,6 +4,8 @@
 
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 
+* understand how changes to the religious and cultural identity of Late Antiquity contributed to the existing structural problems of the Roman system, thereby encouraging decentralization/ fragmentation of power
+* 
 ### Overview:
 
 This week we will explore the end of Late Antiquity, and the rise of two key forces that promoted then end of the existing Roman system around the Mediterranean: the rise of Christianity as an Imperial ideaology and the growing influence of the provinces \(aka the Barbarians\). These two trends lead to a weakening of traditional Roman elites and begin a process of fragmentation, which manifests itself first in division of Europe into kingdoms. 
@@ -27,6 +29,7 @@ Carleton's library subscribes to Films-On-Demand, an online streaming service la
 
 * \(Optional\): For more about Constantine's conversion you can watch this hour long documentary, [_The Conversion of Constantine_](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=114960) produced by Arte France \(part of a larger series on the end of Antiquity\). 
   * **Description**: How and why did the emperor Constantine convert to Christianity during the Battle at the Milvian Bridge in 312? Was it a sincere personal decision or politically motivated? What were the advantages of converting? Though he chose Christianity, did Constantine continue to believe in the Sun God? Was the covenant between the Church and the Empire inevitable?
+* \(Optional\) for more about the history of Constantine's city, you can watch [Byzantium: Tale of Three Cities](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?seriesID=65390&wID=104730) which traces the history of this city from Late Roman to Ottoman times. 
 
 ### Practice
 
