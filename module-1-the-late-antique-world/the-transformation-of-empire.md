@@ -44,7 +44,11 @@ In this week and the next, you will receive feedback on your first Critical Repo
 
 ### Going Further
 
-If you want to read Chris Wickham's magisterial redefinition of how to approach the early Middle Ages, read his _Framing the Middle Ages_ [available online throught the library](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/1gorbd6/alma991022743263905153). A paper copy of _The Inheritance of Rome_ is also available for curbside pickup/mail from the Library if you want to read more. N.B. _Framing_ is meant for an audience of academics \(i.e. professors\) but _Inheritance_ is meant to be more introductory.  
+If you want to read Chris Wickham's magisterial redefinition of how to approach the early Middle Ages, read his _Framing the Middle Ages_ [available online throught the library](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/1gorbd6/alma991022743263905153). A paper copy of _The_ [_Inheritance_](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/1gorbd6/alma991001791629705153) _of Rome_ is also available for curbside pickup/mail from the Library if you want to read more. N.B. _Framing_ is meant for an audience of academics \(i.e. professors\) but _Inheritance_ is meant to be more introductory.  
+
+Peter Brown has defined the field of Late Antique religion for the past 40 years. Check out his most recent book [Through the Eye of a Needle : Wealth, the Fall of Rome, and the Making of Christianity in the West, 350-550 AD](https://ocul-crl.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991022691195005153&context=L&vid=01OCUL_CRL:CRL_DEFAULT&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Peter%20Brown&offset=0) \(available online through the Library\). 
+
+On the hagiographic genre, Lucy Pick is a superstar scholar. See her article on the [pedagogical intent of hagiography](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/1vru3a1/cdi_crossref_primary_10_1017_stc_2018_13). Or Peter Turner's article on [Late Antique hagiography in the West.](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/1vru3a1/cdi_crossref_primary_10_1017_S042420840000084X)  
 
 ### **Help**
 
