@@ -32,6 +32,7 @@ Carleton's library subscribes to Films-On-Demand, an online streaming service la
 * \(Optional\): For more about Constantine's conversion you can watch this hour long documentary, [_The Conversion of Constantine_](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=114960) produced by Arte France \(part of a larger series on the end of Antiquity\). 
   * **Description**: How and why did the emperor Constantine convert to Christianity during the Battle at the Milvian Bridge in 312? Was it a sincere personal decision or politically motivated? What were the advantages of converting? Though he chose Christianity, did Constantine continue to believe in the Sun God? Was the covenant between the Church and the Empire inevitable?
 * \(Optional\) for more about the history of Constantine's city, you can watch [Byzantium: Tale of Three Cities](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?seriesID=65390&wID=104730) which traces the history of this city from Late Roman to Ottoman times. 
+* \(Optional\) You can watch this episode, [Adrinople: Rome against the Barbarians](https://fod-infobase-com.proxy.library.carleton.ca/p_ViewVideo.aspx?xtid=145601&tScript=0#) of "documentary series" about Turning Points in History. The episode addresses key events defining the end of Late Antique Rome. BE critical! This is a very dated historiography represented here. 
 
 ### Practice
 
