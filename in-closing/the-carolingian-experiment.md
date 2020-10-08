@@ -16,6 +16,9 @@ What will you focus on during your FaceTime with the students?
 
 What do students need to read this week?
 
+* \(Optional\): Watch Professor Robert Bartlett's [introduction to the history of the Normans](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=124970). He looks at how the Norse \(North-men\) become settled as Normans in Northern France. 
+* \(Optional\) Watch a different version of the same story told in the documentary series, _Butterfly Effect_, which devotes an episode to [_Vikings: From Paris to Normandy_](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=183497)_._
+
 ### Practice
 
 Are there practical activities \(tasks, labs, fieldwork\), which students must do this week? If so, what are they and what specifically do they need to do, bearing in mind social-distancing?
