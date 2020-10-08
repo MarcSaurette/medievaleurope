@@ -5,7 +5,9 @@
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 
 * understand how changes to the religious and cultural identity of Late Antiquity contributed to the existing structural problems of the Roman system, thereby encouraging decentralization/ fragmentation of power
-* 
+* critique the "Migration Thesis" interpretation of European History, which locates modern nations in an idealized Germanic Past
+* learn how to read against the grain with primary sources. We will read three sacred biographies \(hagiographies\), but we will ignore the authors' embedded arguments \(X was a saint\) to see what they say about Late Antique society in flux. 
+
 ### Overview:
 
 This week we will explore the end of Late Antiquity, and the rise of two key forces that promoted then end of the existing Roman system around the Mediterranean: the rise of Christianity as an Imperial ideaology and the growing influence of the provinces \(aka the Barbarians\). These two trends lead to a weakening of traditional Roman elites and begin a process of fragmentation, which manifests itself first in division of Europe into kingdoms. 
