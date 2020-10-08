@@ -30,7 +30,7 @@ Carleton's library subscribes to Films-On-Demand, an online streaming service la
 
 ### Practice
 
-In the optional discussion group, led by Vanessa, she will give general feedback about the critical response, and address this question of "What is YOUR Middle Ages?" and different ways to think about it.
+In the optional discussion group, led by Vanessa, she will give general feedback about the latest assignment you submitted, and address more generally the question of "What is YOUR Middle Ages?"
 
 ### **Assess** 
 
@@ -39,8 +39,6 @@ In this week and the next, you will receive feedback on your first Critical Repo
 ### Going Further
 
 If you want to read Chris Wickham's magisterial redefinition of how to approach the early Middle Ages, read his _Framing the Middle Ages_ [available online throught the library](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/1gorbd6/alma991022743263905153). A paper copy of _The Inheritance of Rome_ is also available for curbside pickup/mail from the Library if you want to read more. N.B. _Framing_ is meant for an audience of academics \(i.e. professors\) but _Inheritance_ is meant to be more introductory.  
-
-
 
 ### **Help**
 
