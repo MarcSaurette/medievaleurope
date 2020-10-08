@@ -1,6 +1,6 @@
 # The Transformation of Empire
 
-### Goals for this week
+### Goals for this week \(October 13th\)
 
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 
