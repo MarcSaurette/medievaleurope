@@ -4,6 +4,8 @@
 
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 
+* student will come to understand the continuing challenges and changes that happen over the course of the Early Middle Ages in the East Roman Empire \(they never did call themselves Byzantine, this is a modern term\). 
+
 ### Overview:
 
 Provide a short rationale for this week’s work suggesting its purpose in terms of the program of studies. \(Why we're doing this...\)
