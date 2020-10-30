@@ -4,15 +4,17 @@
 
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 
-* student will come to understand the continuing challenges and changes that happen over the course of the Early Middle Ages in the East Roman Empire \(they never did call themselves Byzantine, this is a modern term\). 
+* student will come to understand the continuing challenges and changes that happen over the course of the Early Middle Ages in the East Roman Empire \(they never did call themselves Byzantine, this is a modern term\).
+* learn about the difficulties of studying the "Byzantine Empire" and how current scholars are reinterpreting a field still defined by  problematic 19th century interpretations of its history and significance \(e.g. the problem of modern nationalism\)
+* write up a detailed analysis of a primary source
 
 ### Overview:
 
-Provide a short rationale for this week’s work suggesting its purpose in terms of the program of studies. \(Why we're doing this...\)
+The Eastern Roman Empire \(aka Romanland/ Romania\) continues in various forms until the 15th century. We will explore aspects of its history, focussing on the reign of Justinian and Theodora, and the representation of imperial power in mosaic and chronicles.
 
 ### **Online Time**
 
-What will you focus on during your FaceTime with the students?
+On Tuesday November 3rd, we will consider why Constantine chose the small port city of Byzantium to be his new capital, how 
 
 ### Read/Watch/Listen
 
@@ -21,8 +23,11 @@ Required:
 * Rosenwein's textbook is organized chronologically, so that you can read about three different regions \(Europe, Byzantium, Dar-al-Islam\) in temporal chunks. I'm asking you to take a read these chapters differently - this week, looking at "Byzantium" as a whole in chapters 2-4. 
 
 {% hint style="info" %}
-
+What are the major events that Rosenwein addresses? If we look at Byzantine history represented in the textbook, what overarching story \(grand narrative\) about Byzantium is being told?
 {% endhint %}
+
+* The primary sources you will read this week attempt to show the nature of politics during the early Middle Ages. 
+  * 
 
 Optional:
 
