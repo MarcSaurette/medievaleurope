@@ -16,8 +16,6 @@ The Eastern Roman Empire \(aka Romanland/ Romania\) continues in various forms u
 
 On Tuesday November 3rd, we will consider why Constantine chose the small port city of Byzantium to be his new capital, how it is incorrect to talk about a Byzantine Empire \(but we will anyways\), and how a focus on Justinian tends to distract us from the challenges Byzantium will face after his death. 
 
-
-
 ### Read/Watch/Listen
 
 **Required**:
