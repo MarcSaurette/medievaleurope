@@ -26,8 +26,17 @@ On Tuesday November 3rd, we will consider why Constantine chose the small port c
 What are the major events that Rosenwein addresses? If we look at Byzantine history represented in the textbook, what overarching story \(grand narrative\) about Byzantium is being told?
 {% endhint %}
 
-* The primary sources you will read this week attempt to show the nature of politics during the early Middle Ages. 
-  * 
+* The primary sources you will read this week attempt to show the nature of Byzantine political and religious identity during the early Middle Ages. 
+  * Chronicon Paschale
+  * the Quinisext Council
+  * Constantine VIII \(Patron of Arts\)
+  * Zoe and Theodora
+
+{% hint style="info" %}
+The _Chronicon Paschale_ or _Easter Chronicle_ is an anonymous chronicle from the early 7th-c., which preserves an account of the salient events of world history from God's creation of the universe down to the time of writing. Thus it fulfills the standard function of a late Roman or Byzantine chronicle, which was to inter-relate Biblical and secular events, to interpret history in specifically Christian terms, and to present the record of true belief from the beginning of the world, through the turning-point of the Crucifixion, down to the present.
+
+The decrees of the Quinisext Council show 
+{% endhint %}
 
 **Optional**:
 
