@@ -6,6 +6,8 @@ By the end of this week, what should students **know**, be able to **do** and **
 
 ### Overview:
 
+This week we will be 
+
 Provide a short rationale for this week’s work suggesting its purpose in terms of the program of studies. \(Why we're doing this...\)
 
 ### **Online Time**
