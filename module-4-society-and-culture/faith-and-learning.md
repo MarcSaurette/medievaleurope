@@ -4,44 +4,50 @@
 
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 
-### Overview:
-
-Provide a short rationale for this week’s work suggesting its purpose in terms of the program of studies. \(Why we're doing this...\)
+This week we will explore the link between religion and education in the medieval world, in particular exploring the link between literacy and education in faith that is common in Judaism, 
 
 ### **Online Time**
 
-What will you focus on during your FaceTime with the students?
+In class on Tuesday, November 17th, the professor will talk about the role of religion what Rosenwein calls the three Sibiling Cultures, discuss how Wickham sees the link of religion and politics. We will then spend the second half of the class discussing a letter written from Abbess Caesaria to Queen Radegund. To undestand what medieval sources look like, we will read the letter, discuss its meaning and also look at what the original Latin manuscript looks like. 
 
 ### Read/Watch/Listen
 
-* _Saints and Sinners: A Millenium of Monasteries_ \(BBC Documentaries via Films-On-Demand\)
-
-  *  [Part 1](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=95209) and [Part 2](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=95210). 
-
-* Joan M. Ferrante, ‘[Caesaria, abbess of Arles’](https://epistolae.ctl.columbia.edu/woman/25209.html), _Epistolae: Medieval Women’s Latin Letters_. New York: Columbia University, 2014.
+* Chapters 8 & 17 in Chris Wickham's _Inheritance of Rome_ on Perusall. 
+* Joan M. Ferrante, biographical entry on ‘[Caesaria, abbess of Arles’](https://epistolae.ctl.columbia.edu/woman/25209.html), _Epistolae: Medieval Women’s Latin Letters_. New York: Columbia University, 2014 \(posted on Perusall\).
 * Professor Ferrante’s edition and translation of [Caesaria’s letter to Radegund](https://epistolae.ctl.columbia.edu/letter/915.html).
-* Original Latin edition in the [Monumenta Germanie Historica](https://www.dmgh.de/mgh_epp_3/index.htm#page/450/mode/1up) from which Joan Ferrante's draws for her translation. 
-* [Poitiers, Bibl. Mun., MS 250, with beautiful illustrations of Radegund’s life, has been fully digitized](https://www.bm-poitiers.fr/Default/digital-viewer/c-1117076) and is available online for you to look at. 
-* Erin T. Dailey, ‘[Misremembering St. Radegund’s Foundation of Sainte-Croix in Poitiers’](https://d-nb.info/1058948059/34), in _Erfahren, Erzählen, Erinnern: Narrativ Konstruktionen von Gedächtnis und Generation in Antike und Mittelalter,_ ed. Benjamin Pohl et al. \(Bamberg: University of Bamberg Press, 2012\), pp. 117–40.
+* Compare her text to the original Latin edition in the [Monumenta Germanie Historica](https://www.dmgh.de/mgh_epp_3/index.htm#page/450/mode/1up) from which Joan Ferrante's draws for her translation. This is to give you a sense of what scholarly editions look like. 
+* Look through a B&W version of the letter in a medieval manuscript \(posted on Perusall or downloadable below\). 
+
+{% file src="../.gitbook/assets/troyes-bibliotheque-de-la-ville-ms.-1248-epistola-caesaria-ad-radegunde.pdf" %}
 
 **Optional Reading \(available online through library subscriptions\)**
 
+* You can look at [Poitiers, Bibl. Mun., MS 250, with beautiful illustrations of Radegund’s life, has been fully digitized](https://www.bm-poitiers.fr/Default/digital-viewer/c-1117076) and is available online for you to look at. 
+* Erin T. Dailey, ‘[Misremembering St. Radegund’s Foundation of Sainte-Croix in Poitiers’](https://d-nb.info/1058948059/34), in _Erfahren, Erzählen, Erinnern: Narrativ Konstruktionen von Gedächtnis und Generation in Antike und Mittelalter,_ ed. Benjamin Pohl et al. \(Bamberg: University of Bamberg Press, 2012\), pp. 117–40.
 * Magdalena Elizabeth Carrasco, “Spirituality in Context: The Romanesque Illustrated Life of St. Radegund of Poitiers \(Poitiers, Bibl. Mun., MS 250\).” _The Art Bulletin_ 72: 3 \(1990\), pp. 414–435. 
 * Jennifer C. Edwards, _Superior Women: Medieval Female Authority in Poiters’ Abbey of Sainte-Croix_ \(Oxford: Oxford University Press, 2019\), pp. 25-59.
 
+**Optional Viewing**
+
+* _Saints and Sinners: A Millenium of Monasteries_ \(BBC Documentaries via Films-On-Demand\)
+  *  [Part 1](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=95209) and [Part 2](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=95210). 
+  * This is a fantastic documentary series on Western monasticism
+* "The Moors at the Height of Empire" an episode from from the documentary series, _When the Moors Rule Europe_ \(2007\) on Islamic Spain.
+* Africa's Great Civilizations - a documentary series which traces the spread of western religion into Africa and the development of educational institutions as a result. 
+  * [Episode 2](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=144351) and [Episode 3](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=144352)
+
 ### Practice
 
-Are there practical activities \(tasks, labs, fieldwork\), which students must do this week? If so, what are they and what specifically do they need to do, bearing in mind social-distancing?
+[Transcription Exercise:](../exercises/transcription-exercise.md) 
 
-Draw a monastery activity: [https://lochinbrouillard.wordpress.com/2019/11/06/class-activity-draw-a-monastery/](https://lochinbrouillard.wordpress.com/2019/11/06/class-activity-draw-a-monastery/)
+* follow along Ferrante's Latin text provided in the manuscript
+* Catalogue description of ms is here: [https://ccfr.bnf.fr/portailccfr/ark:/06871/004D02A14154](https://ccfr.bnf.fr/portailccfr/ark:/06871/004D02A14154)
 
-Transcription Exercise: follow along Ferrante's Latin text provided in the manuscript??? Catalogue description of ms is here: [https://ccfr.bnf.fr/portailccfr/ark:/06871/004D02A14154](https://ccfr.bnf.fr/portailccfr/ark:/06871/004D02A14154)
-
-Bibliography and a link to a B&W reproduction of the manuscript is available [here](https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2094). This viewer is somewhat antequated and only works on some browsers, so I have added a pdf version of the first few pages and the letter to Radegund on Persuall.  
+Bibliography and a link to a B&W reproduction of the manuscript is available [here](https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2094). This viewer is somewhat antequated and only works on some browsers \(it uses Flash\), so I have added a pdf version of the first few pages and the letter to Radegund on Persuall.  
 
 ### **Discuss**
 
-What questions should students be discussing with each other?
+What questions should students be discussing in their annotations?
 
 1. Based on the Caesaria of Arles letter, what were the possibilities and limitations of monastic life for early medieval women?
 
@@ -50,17 +56,11 @@ What questions should students be discussing with each other?
 
 ### **Do**
 
-What quizzes \(if any\) or other activities should students complete this week to evaluate their own progress? How will they know they are “on track”?
-
-### **Assess** 
-
-Is there a graded assignment this week? If so, what is the assignment and when does it need to be submitted?
+Students should be working on revising their Draft document analysis. 
 
 ### Going Further
 
 If students want to do more to ensure success, what materials and resources \(e.g. reading, video, audio simulations, games\) do you recommend?
 
-### **Help**
-
- If a student is struggling, how should they seek help?
+* look at the documentaries linked above for different takes on our topic from Western Europe, Islamic Iberia \(Al-Aldalus\) and Africa. 
 

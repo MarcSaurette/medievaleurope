@@ -76,8 +76,8 @@
 
 ## Module 4 - Early Medieval Society and Culture <a id="module-4-society-and-culture"></a>
 
-* [Cities and Countryside](module-4-society-and-culture/cities-vs.-countryside.md)
 * [Faith and Learning](module-4-society-and-culture/faith-and-learning.md)
+* [Cities and Countryside](module-4-society-and-culture/cities-vs.-countryside.md)
 * [Power Structures](module-4-society-and-culture/structures-of-power.md)
 * [Social Structures](module-4-society-and-culture/slaves-and-serfs.md)
 

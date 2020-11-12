@@ -39,6 +39,8 @@ Is there a graded assignment this week? If so, what is the assignment and when d
 
 If students want to do more to ensure success, what materials and resources \(e.g. reading, video, audio simulations, games\) do you recommend?
 
+* Watch: _Africa's Great Civilizations_ - a documentary series which traces the spread of western religion into Africa and the development of educational institutions as a result. [Episode 4](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=144353)
+
 ### **Help**
 
  If a student is struggling, how should they seek help?
