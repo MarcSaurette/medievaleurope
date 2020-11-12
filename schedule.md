@@ -35,17 +35,13 @@ This is an overview of the schedule for the Fall term here. Obviously, it is sti
 
 ### Week 8. Module 3.3 [The Rise and Spread of Islam](module-2-the-post-roman-mediterranean/the-rise-and-spread-of-islam.md)
 
-### Week 9.Module 4.1 [Cities and Countryside](module-4-society-and-culture/cities-vs.-countryside.md)
+### Week 9. Module 4.1 [Faith and Learning](module-4-society-and-culture/faith-and-learning.md)
 
-### Week 10. Module 4.2 [Faith and Learning](module-4-society-and-culture/faith-and-learning.md)
+* [Transcription Exercise](exercises/transcription-exercise.md)
 
-* [Draw a Monastery activity](https://lochinbrouillard.wordpress.com/2019/11/06/class-activity-draw-a-monastery/)
-* Reading: Knibbs, "How to use a modern critical edition"
-* Transcription Exercise
+### Week 11.Module 4.2 [Cities and Countryside](module-4-society-and-culture/cities-vs.-countryside.md)
 
 ### Week 11. Module 4.3 [Power Structures](module-4-society-and-culture/structures-of-power.md)
 
 ### Week 12. Module 4.4 [Social Structures](module-4-society-and-culture/slaves-and-serfs.md)
-
-### Week 13. Module 5.1 [The Failed Carolingian Experiment](in-closing/the-carolingian-experiment.md) 
 
