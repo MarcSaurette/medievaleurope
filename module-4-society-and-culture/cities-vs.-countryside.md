@@ -12,7 +12,8 @@ On Tuesday, November 24th, we will discuss the relative historical changes in ur
 
 Required:
 
-* 
+* the chapter in Wickham's _Inheritance of Rome_
+
 
 
 Optional:
