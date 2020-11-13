@@ -1,15 +1,8 @@
 # Cities and Countryside
 
-* Golvin images
-* maps
-
 ### Goals for this week
 
-By the end of this week, what should students **know**, be able to **do** and **understand**?
-
-### Overview:
-
-Provide a short rationale for this week’s work suggesting its purpose in terms of the program of studies. \(Why we're doing this...\)
+Our goal this week is to explore medieval demographic patterns - focussing on the relationship between urban centres and the surrounding countryside in the early Middle Ages. In the eastern Mediterranean, important urban centres, such as Cordoba, Constantinople and Baghdad were founded and thrived as administrative centers in the early Middle Ages. In the West, however, power became decentralized and only in already-existing Roman cities did urban life continue \(now dominated by the power of bishops\). 
 
 ### **Online Time**
 
@@ -17,7 +10,15 @@ What will you focus on during your FaceTime with the students?
 
 ### Read/Watch/Listen
 
-What do students need to read this week?
+Required:
+
+* 
+
+
+Optional:
+
+*  * Golvin images
+  * maps
 
 ### Practice
 
@@ -25,7 +26,10 @@ Are there practical activities \(tasks, labs, fieldwork\), which students must d
 
 ### **Discuss**
 
-What questions should students be discussing with each other on the discussion board for this course?
+The Romans defined cities as a fundamental aspect of their culture. Their term for city \(_ciuitas_\) provided the root for citizen \(_ciuis_\) and for the idea of "civilization". What distinguished, they thought, the civilized from barbarians was dwelling in cities. Western society has accepted this valuation of urban space and one of the ways in which the medieval West seem 'barbaric' is the sense that city life declines during this time period. 
+
+* in your readings this week, try to discern evidence for the nature of urban life in the Middle Ages
+* try to understand why there were demographic differences between Western Europe and the Eastern Mediterranean
 
 ### **Do**
 
