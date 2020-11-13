@@ -2,11 +2,11 @@
 
 ### Goals for this week
 
-Our goal this week is to explore medieval demographic patterns - focussing on the relationship between urban centres and the surrounding countryside in the early Middle Ages. In the eastern Mediterranean, important urban centres, such as Cordoba, Constantinople and Baghdad were founded and thrived as administrative centers in the early Middle Ages. In the West, however, power became decentralized and only in already-existing Roman cities did urban life continue \(now dominated by the power of bishops\). 
+Our goal this week is to explore medieval demographic patterns - focussing on the relationship between urban centres and the surrounding countryside in the early Middle Ages. In the eastern Mediterranean, important urban centres, such as Cordoba, Constantinople and Baghdad were founded and thrived as administrative centers in the early Middle Ages. In the West, however, power became decentralized and only in already-existing Roman cities did urban life continue \(now dominated by the power of bishops\). We will seek to discuss new cities founded in Sub-Saharan Africa and the powerful empires that nurtured them. 
 
 ### **Online Time**
 
-What will you focus on during your FaceTime with the students?
+On Tuesday, November 24th, we will discuss the relative historical changes in urban/rural populations in Europe, Byzantium and the Caliphates and what impact this has on the nature of their societies, as well as the organization of government and the economy. 
 
 ### Read/Watch/Listen
 
