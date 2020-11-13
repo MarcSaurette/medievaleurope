@@ -2,13 +2,14 @@
 
 ### Goals for this week
 
-By the end of this week, what should students **know**, be able to **do** and **understand**?
+This week we will explore the link between religion and education in the medieval world, in particular exploring the link between literacy and education in Christianity and Islam during the early Middle Ages.
 
-This week we will explore the link between religion and education in the medieval world, in particular exploring the link between literacy and education in faith that is common in Judaism, 
+* we will return to the question of sources - by looking at a early medieval letter exchanged between an abbess and a Frankish queen. We will take a look at print editions of the letter as well as the manuscript on which the edition is based. 
+* you will learn about the types of editions that medieval historians use and how that affects how we can use primary sources
 
 ### **Online Time**
 
-In class on Tuesday, November 17th, the professor will talk about the role of religion what Rosenwein calls the three Sibiling Cultures, discuss how Wickham sees the link of religion and politics. We will then spend the second half of the class discussing a letter written from Abbess Caesaria to Queen Radegund. To undestand what medieval sources look like, we will read the letter, discuss its meaning and also look at what the original Latin manuscript looks like. 
+In class on Tuesday, November 17th, the professor will talk about the role of religion in what Rosenwein calls the three Sibiling Cultures, as well as discuss how Wickham sees the link of religion and politics. We will then spend the second half of the class discussing a letter written from Abbess Caesaria to Queen Radegund. To understand what medieval sources look like, we will read the letter, discuss its meaning and also look at what the original Latin manuscript looks like. 
 
 ### Read/Watch/Listen
 
@@ -32,7 +33,7 @@ In class on Tuesday, November 17th, the professor will talk about the role of re
 * _Saints and Sinners: A Millenium of Monasteries_ \(BBC Documentaries via Films-On-Demand\)
   *  [Part 1](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=95209) and [Part 2](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=95210). 
   * This is a fantastic documentary series on Western monasticism
-* "The Moors at the Height of Empire" an episode from from the documentary series, _When the Moors Rule Europe_ \(2007\) on Islamic Spain.
+* "[The Moors at the Height of Empire](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=37635)" an episode from from the documentary series, _When the Moors Rule Europe_ \(2007\) on Islamic Spain.
 * Africa's Great Civilizations - a documentary series which traces the spread of western religion into Africa and the development of educational institutions as a result. 
   * [Episode 2](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=144351) and [Episode 3](http://proxy.library.carleton.ca/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=104730&xtid=144352)
 
@@ -41,7 +42,7 @@ In class on Tuesday, November 17th, the professor will talk about the role of re
 [Transcription Exercise:](../exercises/transcription-exercise.md) 
 
 * follow along Ferrante's Latin text provided in the manuscript
-* Catalogue description of ms is here: [https://ccfr.bnf.fr/portailccfr/ark:/06871/004D02A14154](https://ccfr.bnf.fr/portailccfr/ark:/06871/004D02A14154)
+* Catalogue description of manuscript \(in French\) is here: [https://ccfr.bnf.fr/portailccfr/ark:/06871/004D02A14154](https://ccfr.bnf.fr/portailccfr/ark:/06871/004D02A14154)
 
 Bibliography and a link to a B&W reproduction of the manuscript is available [here](https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2094). This viewer is somewhat antequated and only works on some browsers \(it uses Flash\), so I have added a pdf version of the first few pages and the letter to Radegund on Persuall.  
 
