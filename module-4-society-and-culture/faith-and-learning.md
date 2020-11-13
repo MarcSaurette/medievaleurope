@@ -17,7 +17,7 @@ In class on Tuesday, November 17th, the professor will talk about the role of re
 * Joan M. Ferrante, biographical entry on ‘[Caesaria, abbess of Arles’](https://epistolae.ctl.columbia.edu/woman/25209.html), _Epistolae: Medieval Women’s Latin Letters_. New York: Columbia University, 2014 \(posted on Perusall\).
 * Professor Ferrante’s edition and translation of [Caesaria’s letter to Radegund](https://epistolae.ctl.columbia.edu/letter/915.html).
 * Compare her text to the original Latin edition in the [Monumenta Germanie Historica](https://www.dmgh.de/mgh_epp_3/index.htm#page/450/mode/1up) from which Joan Ferrante's draws for her translation. This is to give you a sense of what scholarly editions look like. 
-* Look through a B&W version of the letter in a medieval manuscript \(posted on Perusall or downloadable below\). 
+* Look through a B&W version of the letter in a medieval manuscript \(posted on Perusall or downloadable below\). Try to match the Latin text you can find in the files above, with the text in the handwritten manuscript \(below\). 
 
 {% file src="../.gitbook/assets/troyes-bibliotheque-de-la-ville-ms.-1248-epistola-caesaria-ad-radegunde.pdf" %}
 
