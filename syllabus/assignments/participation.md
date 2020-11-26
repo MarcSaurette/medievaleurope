@@ -27,6 +27,11 @@ Our plan is to give students a wide variety of opportunities to actively partici
 
 * Annotation and commenting on Perusall. 
   * Students are asked to read, comment on and reflect on the textbook readings \(and additional assigned/optional texts\) via Perusall. 
+
+{% hint style="info" %}
+Students are expected to provide at minimum 7 annotations per reading assignment.  
+{% endhint %}
+
 * Q+A periods during lectures 
 
   * Students will be encouraged to add questions/comments throughout lectures; during mid-lecture Q+A periods, the profs and TA’s will pick several questions/comments to discuss further/respond to

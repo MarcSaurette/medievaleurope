@@ -1,6 +1,10 @@
 # Textbooks
 
-I am trying something new this year for our textbooks. Instead of having the bookstore order physical books to campus \(which I am not sure if you are going to be nearby\), we will instead use digital textbooks which we will read and annotate together via [Perusall](https://app.perusall.com/).  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year. You have other options to get textbooks \(listed below\) but you will not be able to participate in the social annotation which is a key part of your work this year.  
+I am trying something new this year for our textbooks. Instead of having the bookstore order physical books to campus \(which I am not sure if you are going to be nearby\), we will instead use digital textbooks which we will read and annotate together via [Perusall](https://app.perusall.com/).  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year. You have other options to get textbooks \(listed below\) but you will not be able to participate in the social annotation which is a key part of your work this year. 
+
+{% hint style="info" %}
+Students are expected to provide at minimum 7 annotations per reading assignment.  
+{% endhint %}
 
 ### Login to Perusall to buy textbooks
 
