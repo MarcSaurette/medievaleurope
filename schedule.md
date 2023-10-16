@@ -1,15 +1,15 @@
 # Weekly Schedule
 
 {% hint style="danger" %}
-This is an overview of the schedule for the Fall term here. Obviously, it is still in progress. When complete, it may not be exhaustive. Check each week's dedicated page for more details \(i.e. click on the titles for links\). 
+This is an overview of the schedule for the Fall term here. Obviously, it is still in progress. When complete, it may not be exhaustive. Check each week's dedicated page for more details (i.e. click on the titles for links).&#x20;
 {% endhint %}
 
 ### Week 1. [Prologue to the Middle Ages](prologue-to-the-middle-ages/the-class-begins.md)
 
-* No online meet up this week. 
-* Read the course guide \(i.e. this website\)
-* Download and install Microsoft [Teams](digital-tools/teams/). 
-* Read through the [Syllabus](syllabus/) \(i.e. the front page and its subpages, from [Your Professors](syllabus/your-professor/) to  [Supplemental Material]()\). A pdf version of the syllabus is on Perusall for you to annotate.
+* No online meet up this week.&#x20;
+* Read the course guide (i.e. this website)
+* Download and install Microsoft [Teams](digital-tools/teams/).&#x20;
+* Read through the [Syllabus](syllabus/) (i.e. the front page and its subpages, from [Your Professors](syllabus/your-professor/) to  [Supplemental Material](broken-reference)). A pdf version of the syllabus is on Perusall for you to annotate.
 * Introduce yourself to your fellow students on Teams
 * Sign in to [Perusall](syllabus/textbooks/#login-to-perusall-to-buy-textbooks) and buy the textbooks
 
@@ -17,7 +17,7 @@ This is an overview of the schedule for the Fall term here. Obviously, it is sti
 
 * Our first online meet up on Teams!
 * Do the reading assigned on Perusall
-* Complete the Document Analysis 
+* Complete the Document Analysis&#x20;
 
 ### Week 3. Module 1.2 [Where are the Middle Ages](module-1.-what-is-the-middle-ages/where-are-the-middle-ages.md)
 
@@ -44,4 +44,3 @@ This is an overview of the schedule for the Fall term here. Obviously, it is sti
 ### Week 11. Module 4.3 [Power Structures](module-4-society-and-culture/structures-of-power.md)
 
 ### Week 12. Module 4.4 [Social Structures](module-4-society-and-culture/slaves-and-serfs.md)
-
